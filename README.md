@@ -26,7 +26,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 * [Describe Artificial Intelligence workloads and considerations (15-20%)](#aI-workloads-and-considerations)
 * [Describe fundamental principles of machine learning on Azure (30-35%)](#fundamental-principles-of-machine-learning-on-Azure)
 * [Describe features of computer vision workloads on Azure (15-20%)](#features-of-computer-vision-workloads-on-azure)
-*[Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)](#features-of-nlp-workloads-on-azure)
+* [Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)](#features-of-nlp-workloads-on-azure)
 
 # Resources
 

@@ -103,12 +103,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Tasks to prepare data for enhanced machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/prepare-data) | topic | Notes |  
 | [Algorithm & module reference for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference) | topic | Notes |  
 | [Train Pytorch Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/train-pytorch-model) | topic | Notes |  
-| []() | topic | Notes |  
-| []() | topic | Notes |  
-| []() | topic | Notes |  
-| []() | topic | Notes |  
-| []() | topic | Notes |  
-| []() | topic | Notes |  
+| [Evaluate your ML.NET model with metrics](https://docs.microsoft.com/en-us/dotnet/machine-learning/resources/metrics) | topic | Notes |  
+| [Evaluate model performance in Azure Machine Learning Studio (classic)](https://docs.microsoft.com/en-us/azure/machine-learning/classic/evaluate-model-performance) | topic | Notes |  
+| [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes |  
+| [Edit Metadata module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/edit-metadata) | topic | Notes |  
+| [Explore data](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/explore-data) | topic | Notes |  
+| [Tune hyperparameters for your model with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters) | topic | Notes |  
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 

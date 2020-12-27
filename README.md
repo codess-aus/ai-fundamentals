@@ -160,9 +160,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create an inference pipeline](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/inference-pipeline) | topic | Notes |  
 | [What is Azure Machine Learning designer?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) | topic | Notes | 
 | [Set up compute targets for model training and deployment](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-attach-compute-targets) | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
+| [Cross Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/cross-validate-model) | topic | Notes |  
+| [Configure data splits and cross-validation in automated machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-cross-validation-data-splits) | topic | Notes | 
+| [Train a machine learning model using cross validation](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/train-machine-learning-model-cross-validation-ml-net) | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes | 
 | []() | topic | Notes |  

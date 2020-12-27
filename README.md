@@ -85,10 +85,32 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
-| [Regression modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-regression) | Topic | Step |   
-| [Classification Modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-classification) | Topic | Step |   
-| [Clustering modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-clustering) | Topic | Step |   
-| [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet) | Topic | Step |  
+| [Regression modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-regression) | Identify common machine learning types | Notes |   
+| [Classification Modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-classification) | Identify common machine learning types | Notes |   
+| [Clustering modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-clustering) | Identify common machine learning types | Notes |   
+| [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet) | Identify common machine learning types | Notes |  
+| [How to select algorithms for Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-select-algorithms) | Identify common machine learning types | Notes |  
+| [Introduction to Machine Learning Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/1-introduction) | Identify common machine learning types | Notes |  
+| [Machine Learning - Evaluate](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-evaluate) | topic | Notes |  
+| [Evaluate Model](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/evaluate-model) | topic | Notes |  
+| [Prepare data for building a model](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/prepare-data-ml-net) | topic | Notes |  
+| [Feature Selection modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-selection-modules) | topic | Notes |  
+| [How to choose an ML.NET algorithm](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-choose-an-ml-net-algorithm) | topic | Notes |  
+| [Cross Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/cross-validate-model) | topic | Notes |  
+| [The ML.NET CLI command reference](https://docs.microsoft.com/en-us/dotnet/machine-learning/reference/ml-net-cli-reference) | topic | Notes |  
+| [Tune Model Hyperparameters](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/tune-model-hyperparameters) | topic | Notes |  
+| [Load and classify your own datasets](https://docs.microsoft.com/en-us/quantum/user-guide/libraries/machine-learning/load?tabs=tabid-python) | topic | Notes | 
+| [Tasks to prepare data for enhanced machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/prepare-data) | topic | Notes |  
+| [Algorithm & module reference for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference) | topic | Notes |  
+| [Train Pytorch Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/train-pytorch-model) | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes |  
+| []() | topic | Notes | 
 
 
 ## Describe features of computer vision workloads on Azure (15-20%)

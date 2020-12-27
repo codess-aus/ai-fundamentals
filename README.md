@@ -58,6 +58,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Example: How to extract key phrases using Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | Identify features of common AI workloads | Notes |
 | [What is the Anomaly Detector API?](https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/overview) | Identify features of common AI workloads | Notes |
 | [Knowledge mining](https://azure.microsoft.com/en-gb/solutions/knowledge-mining/) | Identify features of common AI workloads | Notes |
+| [Analyze videos in near real time](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtoanalyzevideo_vision) | Identify features of common AI workloads | Notes |
+| [What is the Speech service?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/overview) | Identify features of common AI workloads | Notes |
+| [How to: Use the Anomaly Detector API on your time series data](https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/how-to/identify-anomalies) | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |

@@ -82,10 +82,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |  
+| [Regression modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-regression) | Topic | Step |   
+| [Classification Modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-classification) | Topic | Step |   
+| [Clustering modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-clustering) | Topic | Step |   
+| [Machine Learning Algorithm Cheat Sheet for Azure Machine Learning designer](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet) | Topic | Step |  
 
 
 ## Describe features of computer vision workloads on Azure (15-20%)

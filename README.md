@@ -182,6 +182,21 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Select Columns in Dataset module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/select-columns-in-dataset) | topic | Notes |  
 | [Join Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/join-data) | topic | Notes | 
 | [Module: K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering) | topic | Notes | 
+| [Two-Class Decision Forest module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/two-class-decision-forest) | topic | Notes |  
+| [Poisson Regression](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/poisson-regression) | topic | Notes | 
+| [Clean Missing Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data) | topic | Notes | 
+| [Add Columns module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/add-columns) | topic | Notes |  
+| [Add Rows module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/add-rows) | topic | Notes | 
+| [What is Azure Machine Learning designer?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) | topic | Notes | 
+| [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6) | topic | 43 |  
+| [Create, review, and deploy automated machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models) | topic | 43 | 
+| [Create Azure Machine Learning datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-register-datasets) | topic | Notes | 
+| [Welcome to Azure Cosmos DB](https://docs.microsoft.com/en-us/azure/cosmos-db/introduction) | topic | Notes |  
+| [Azure Cache for Redis](https://docs.microsoft.com/en-gb/azure/azure-cache-for-redis/cache-overview) | topic | Notes | 
+| [What is Azure Database for MySQL?](https://docs.microsoft.com/en-gb/azure/mysql/overview) | topic | Notes | 
+| [Create, review, and deploy automated machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models) | topic | Notes |  
+| [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes | 
+| [Feature engineering in data science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features) | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes | 
@@ -190,7 +205,6 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
-
 
 
 ## Describe features of computer vision workloads on Azure (15-20%)

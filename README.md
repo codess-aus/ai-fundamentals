@@ -47,13 +47,22 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 ## Describe Artificial Intelligence workloads and considerations (15-20%)
 
-| Resource | Topic | Step |   
+| Resource | Topic | Notes |   
 |------|--------|------------------|
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |  
-
+| [Overview of the prediction model](https://docs.microsoft.com/en-us/ai-builder/prediction-overview) | Identify features of common AI workloads | Notes |   
+| [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Identify features of common AI workloads | Notes |
+| [How bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0&tabs=csharp) | Identify features of common AI workloads | Notes |
+| [What is Computer Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview) | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
+| []() | Identify features of common AI workloads | Notes |
 
 ## Describe fundamental principles of machine learning on Azure (30-35%)
 

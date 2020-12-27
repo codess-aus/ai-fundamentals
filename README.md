@@ -204,13 +204,13 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Select Columns in Dataset module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/select-columns-in-dataset) | topic | Notes | 
 | [Azure Machine Learning pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning/) | topic | Notes | 
 | [What happened to Enterprise edition](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace#wheres-enterprise) | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
+| [Deploy models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where?tabs=azcli) | topic | Notes | 
+| [Deploy a model to an Azure Kubernetes Service cluster](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-kubernetes-service?tabs=python) | topic | Notes | 
+| [Model interpretability in Azure Machine Learning (preview)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) | topic | Notes |  
+| [Create, review, and deploy automated machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models) | topic | Notes | 
+| [Tutorial: Forecast demand with automated machine learning](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-automated-ml-forecast) | topic | Notes | 
+| [Deep neural network concepts](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/2-deep-neural-network-concepts) | topic | Notes |  
+| [Auto-train a time-series forecast model](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-forecast#configure-and-run-experiment) | topic | Notes | 
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 

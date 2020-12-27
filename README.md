@@ -202,8 +202,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Clean Missing Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data) | topic | Notes | 
 | [Clip Values](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clip-values) | topic | Notes |  
 | [Select Columns in Dataset module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/select-columns-in-dataset) | topic | Notes | 
-| []() | topic | Notes | 
-| []() | topic | Notes |  
+| [Azure Machine Learning pricing](https://azure.microsoft.com/en-us/pricing/details/machine-learning/) | topic | Notes | 
+| [What happened to Enterprise edition](https://docs.microsoft.com/en-us/azure/machine-learning/concept-workspace#wheres-enterprise) | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes | 
 | []() | topic | Notes |  

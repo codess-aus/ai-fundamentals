@@ -126,10 +126,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Introduction to Classification Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/1-introduction) | topic | Notes |  
 | [Introduction to Clustering Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/1-introduction) | topic | Notes | 
 | [Introduction to Regression Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/1-introduction) | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
+| [Machine Learning - Evaluate](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-evaluate) | topic | Notes | 
+| [Score Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/score-model) | topic | Notes |  
+| [Evaluate Probability Function](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/evaluate-probability-function) | topic | Notes | 
+| [Detect Languages](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/detect-languages) | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 

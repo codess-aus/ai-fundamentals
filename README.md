@@ -130,9 +130,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Score Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/score-model) | topic | Notes |  
 | [Evaluate Probability Function](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/evaluate-probability-function) | topic | Notes | 
 | [Detect Languages](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/detect-languages) | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
+| [Feature Selection modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-selection-modules) | topic | Notes | 
+| [Cross-Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/cross-validate-model) | topic | Notes |  
+| [Evaluate Model](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/evaluate-model) | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  

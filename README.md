@@ -61,9 +61,17 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Analyze videos in near real time](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtoanalyzevideo_vision) | Identify features of common AI workloads | Notes |
 | [What is the Speech service?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/overview) | Identify features of common AI workloads | Notes |
 | [How to: Use the Anomaly Detector API on your time series data](https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/how-to/identify-anomalies) | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
+| [Artificial intelligence (AI)](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/ai-overview) | Identify features of common AI workloads | Notes |
+| [To Go the Distance, We Built Systems That Could Better Perceive It](https://blogs.nvidia.com/blog/2019/06/19/drive-labs-distance-to-object-detection/) | Identify features of common AI workloads | Notes |
+| [Anomaly Detector](https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/) | Identify features of common AI workloads | Notes |
+| [Introducing Azure Anomaly Detector API](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/introducing-azure-anomaly-detector-api/ba-p/490162) | Identify features of common AI workloads | Notes |
+| [What is Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-azure-ml) | Identify features of common AI workloads | Notes |
+| [Understand computer vision](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/4-understand-computer-vision) | Identify features of common AI workloads | Notes |
+| [Understand natural language processing](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/5-understand-natural-language-process) | Identify features of common AI workloads | Notes |
+| [Understand conversational AI](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/6-understand-conversational-ai) | Identify features of common AI workloads | Notes |
+| [Understand anomaly detection](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/3-understand-anomaly-detection) | Identify features of common AI workloads | Notes |
+| [Understand machine learning](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/2-understand-machine-learn) | Identify features of common AI workloads | Notes |
+| [Implement knowledge mining with Azure Cognitive Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |

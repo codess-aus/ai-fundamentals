@@ -197,6 +197,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Create, review, and deploy automated machine learning models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-automated-ml-for-ml-models) | topic | Notes |  
 | [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes | 
 | [Feature engineering in data science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features) | topic | Notes | 
+| [Secure data access in Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-data) | topic | Notes |  
+| [Create Azure Machine Learning datasets](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-register-datasets) | topic | Notes | 
+| [Clean Missing Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data) | topic | Notes | 
+| [Clip Values](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clip-values) | topic | Notes |  
+| [Select Columns in Dataset module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/select-columns-in-dataset) | topic | Notes | 
+| []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes | 
@@ -205,7 +211,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
-
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

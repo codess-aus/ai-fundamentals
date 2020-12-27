@@ -163,12 +163,35 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Cross Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/cross-validate-model) | topic | Notes |  
 | [Configure data splits and cross-validation in automated machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-cross-validation-data-splits) | topic | Notes | 
 | [Train a machine learning model using cross validation](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/train-machine-learning-model-cross-validation-ml-net) | topic | Notes |  
+| [Understanding Cross Validation](https://towardsdatascience.com/understanding-cross-validation-419dbd47e9bd) | topic | Notes | 
+| [Tasks to prepare data for enhanced machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/prepare-data) | topic | Notes | 
+| [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes |  
+| [Score Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/score-model) | topic | Notes | 
+| [Feature engineering in data science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features) | topic | Notes |  
+| [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes | 
+| [Summarize Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/summarize-data) | topic | Notes | 
+| [What are compute targets in Azure Machine Learning?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-target) | topic | Notes |  
+| [Azure Machine Learning tools and interfaces](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-machine-learning-service/3-azure-ml-tools) | topic | Notes | 
+| [What is an Azure Machine Learning compute instance?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-compute-instance) | topic | Notes | 
+| [Deploy a model to Azure Container Instances](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-container-instance) | topic | Notes |  
+| [Deploy a model to an Azure Kubernetes Service cluster](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-kubernetes-service?tabs=python) | topic | Notes | 
+| [Tutorial: Build an Azure Machine Learning pipeline for batch scoring](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-pipeline-batch-scoring-classification) | topic | Notes | 
+| [Tutorial: Predict automobile price with the designer](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score) | topic | Notes q40 |  
+| [Split Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/split-data) | topic | Notes | 
+| [Linear Regression module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/linear-regression) | topic | Notes | 
+| [Select Columns in Dataset module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/select-columns-in-dataset) | topic | Notes |  
+| [Join Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/join-data) | topic | Notes | 
+| [Module: K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering) | topic | Notes | 
+| []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
+| []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
+
+
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

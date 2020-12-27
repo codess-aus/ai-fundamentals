@@ -211,12 +211,17 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Tutorial: Forecast demand with automated machine learning](https://docs.microsoft.com/en-gb/azure/machine-learning/tutorial-automated-ml-forecast) | topic | Notes | 
 | [Deep neural network concepts](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-deep-learn-models/2-deep-neural-network-concepts) | topic | Notes |  
 | [Auto-train a time-series forecast model](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-auto-train-forecast#configure-and-run-experiment) | topic | Notes | 
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
+| [What is Azure Machine Learning studio?](https://docs.microsoft.com/en-us/azure/machine-learning/overview-what-is-machine-learning-studio) | topic | Notes | 
+| [Tutorial: Get started with Azure Machine Learning in Jupyter Notebooks](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-1st-experiment-sdk-setup) | topic | Notes |  
+| [Compare the machine learning products and technologies from Microsoft](https://docs.microsoft.com/en-us/azure/architecture/data-guide/technology-choices/data-science-and-machine-learning) | topic | Notes | 
+| [What is ML.NET and how does it work?](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-does-mldotnet-work) | topic | Notes | 
+| [What is automated machine learning (AutoML)?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-automated-ml) | topic | Notes |  
+| [Module: K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering) | topic | Notes | 
+| [Score Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/score-model) | topic | Notes | 
+| [Clean Missing Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data) | topic | Notes | 
+| [Join Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/join-data) | topic | Notes | 
+| [Summarize Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/summarize-data) | topic | Notes | 
+
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

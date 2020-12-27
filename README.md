@@ -72,11 +72,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Understand anomaly detection](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/3-understand-anomaly-detection) | Identify features of common AI workloads | Notes |
 | [Understand machine learning](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/2-understand-machine-learn) | Identify features of common AI workloads | Notes |
 | [Implement knowledge mining with Azure Cognitive Search](https://docs.microsoft.com/en-us/learn/paths/implement-knowledge-mining-azure-cognitive-search/) | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
+| [Responsible AI resources](https://www.microsoft.com/en-gb/ai/responsible-ai-resources?rtc=1&activetab=pivot1%3aprimaryr4) | Identify guiding principles for responsible AI | Notes |
+| [Responsible AI](https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6) | Identify guiding principles for responsible AI | Notes |
+| [Guiding principles of our identity strategy: staying ahead of evolving customer needs](https://www.microsoft.com/security/blog/2020/07/27/guiding-principles-identity-products/) | Identify guiding principles for responsible AI | Notes |
+| [Understand responsible AI](https://docs.microsoft.com/en-us/learn/modules/get-started-ai-fundamentals/7-understand-responsible-ai) | Identify guiding principles for responsible AI | Notes |
+
 
 ## Describe fundamental principles of machine learning on Azure (30-35%)
 

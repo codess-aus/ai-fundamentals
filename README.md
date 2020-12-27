@@ -221,7 +221,10 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Clean Missing Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data) | topic | Notes | 
 | [Join Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/join-data) | topic | Notes | 
 | [Summarize Data](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/summarize-data) | topic | Notes | 
-
+| [Web Service Input and Web Service Output modules](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/web-service-input-output) | topic | Notes | 
+| [Add Rows module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/add-rows) | topic | Notes | 
+| [Cross Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/cross-validate-model) | topic | Notes | 
+| [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

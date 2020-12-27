@@ -109,9 +109,42 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Edit Metadata module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/edit-metadata) | topic | Notes |  
 | [Explore data](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/explore-data) | topic | Notes |  
 | [Tune hyperparameters for your model with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters) | topic | Notes |  
+| [The Essential Guide to Training Data](https://lionbridge.ai/training-data-guide/) | topic | Notes |  
+| [Configure data splits and cross-validation in automated machine learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-configure-cross-validation-data-splits) | topic | Notes | 
+| [About Train, Validation and Test Sets in Machine Learning](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7?gi=dd7c79282101) | topic | Notes |  
+| [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) | topic | Notes | 
+| [Machine learning algorithms](https://azure.microsoft.com/en-us/overview/machine-learning-algorithms/) | topic | Notes |  
+| [Make predictions with a trained model](https://docs.microsoft.com/en-us/dotnet/machine-learning/how-to-guides/machine-learning-model-predictions-ml-net) | topic | Notes | 
+| [Prediction scores indicate prediction accuracy for intent and entities](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/luis-concept-prediction-score) | topic | Notes |  
+| [Evaluate a classification model](https://docs.microsoft.com/en-us/learn/modules/create-classification-model-azure-machine-learning-designer/evaluate-model) | topic | Notes | 
+| [Evaluate automated machine learning experiment results](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml) | topic | Notes |  
+| [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
+| [Evaluate a regression model](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/evaluate-model) | topic | Notes |  
+| []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
-
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

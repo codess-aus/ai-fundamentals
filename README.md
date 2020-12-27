@@ -133,9 +133,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Feature Selection modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-selection-modules) | topic | Notes | 
 | [Cross-Validate Model](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/cross-validate-model) | topic | Notes |  
 | [Evaluate Model](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/evaluate-model) | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
+| [Split Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/split-data) | topic | Notes |  
+| [Data Transformation - Sample and Split](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/data-transformation-sample-and-split) | topic | Notes | 
+| [Split Data using Split Rows](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/split-data-using-split-rows) | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 

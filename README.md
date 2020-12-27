@@ -120,12 +120,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Evaluate automated machine learning experiment results](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml) | topic | Notes |  
 | [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
 | [Evaluate a regression model](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/evaluate-model) | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
+| [Evaluate automated machine learning experiment results](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml) | topic | Notes | 
+| [Evaluate automated machine learning experiment results](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-understand-automated-ml) | topic | Notes |  
+| [Machine learning algorithms](https://azure.microsoft.com/en-us/overview/machine-learning-algorithms/) | topic | Notes | 
+| [Introduction to Classification Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-classification-models/1-introduction) | topic | Notes |  
+| [Introduction to Clustering Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-cluster-models/1-introduction) | topic | Notes | 
+| [Introduction to Regression Models](https://docs.microsoft.com/en-us/learn/modules/train-evaluate-regression-models/1-introduction) | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 

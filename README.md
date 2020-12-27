@@ -147,19 +147,28 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Model interpretability in Azure Machine Learning (preview)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) | topic | Notes | 
 | [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes |  
 | [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
+| [Deploy models with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-and-where?tabs=azcli) | topic | Notes |  
+| [Deploy a model to Azure Container Instances](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-deploy-azure-container-instance) | topic | Notes | 
+| [What is Azure Container Instances?](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview) | topic | Notes |  
+| [Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes) | topic | Notes | 
+| [Azure Event Hubs — A big data streaming platform and event ingestion service](https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-about) | topic | Notes |  
+| [What is Azure IoT Hub?](https://docs.microsoft.com/en-us/azure/iot-hub/about-iot-hub) | topic | Notes | 
+| [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview) | topic | Notes |  
+| [Feature engineering in data science](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/create-features) | topic | Notes | 
+| [Feature selection in the Team Data Science Process (TDSP)](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/select-features) | topic | Notes |  
+| [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
+| [Create an inference pipeline](https://docs.microsoft.com/en-us/learn/modules/create-regression-model-azure-machine-learning-designer/inference-pipeline) | topic | Notes |  
+| [What is Azure Machine Learning designer?](https://docs.microsoft.com/en-us/azure/machine-learning/concept-designer) | topic | Notes | 
+| [Set up compute targets for model training and deployment](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-attach-compute-targets) | topic | Notes | 
 | []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-| []() | topic | Notes |  
-| []() | topic | Notes | 
-
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

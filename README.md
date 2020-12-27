@@ -53,11 +53,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Identify features of common AI workloads | Notes |
 | [How bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0&tabs=csharp) | Identify features of common AI workloads | Notes |
 | [What is Computer Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview) | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
-| []() | Identify features of common AI workloads | Notes |
+| [How to: Sentiment analysis and Opinion Mining](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3) | Identify features of common AI workloads | Notes |
+| [Use QnA Maker to answer questions](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-howto-qna?view=azure-bot-service-4.0&tabs=cs) | Identify features of common AI workloads | Notes |
+| [Example: How to extract key phrases using Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | Identify features of common AI workloads | Notes |
+| [What is the Anomaly Detector API?](https://docs.microsoft.com/en-us/azure/cognitive-services/anomaly-detector/overview) | Identify features of common AI workloads | Notes |
+| [Knowledge mining](https://azure.microsoft.com/en-gb/solutions/knowledge-mining/) | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |
 | []() | Identify features of common AI workloads | Notes |

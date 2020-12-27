@@ -136,7 +136,17 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Split Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/split-data) | topic | Notes |  
 | [Data Transformation - Sample and Split](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/data-transformation-sample-and-split) | topic | Notes | 
 | [Split Data using Split Rows](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/split-data-using-split-rows) | topic | Notes |  
-| []() | topic | Notes | 
+| [Data Transformation - Sample and Split](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/data-transformation-sample-and-split) | topic | Notes | 
+| [Partition and Sample module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/partition-and-sample) | topic | Notes |  
+| [Split Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/split-data) | topic | Notes | 
+| [Feature Hashing](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/feature-hashing) | topic | Notes |  
+| [Data ingestion options for Azure Machine Learning workflows](https://docs.microsoft.com/en-us/azure/machine-learning/concept-data-ingestion) | topic | Notes | 
+| [Clip Values](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clip-values) | topic | Notes |  
+| [Export Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/export-data) | topic | Notes | 
+| [Distributed training with Azure Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training) | topic | Notes |  
+| [Model interpretability in Azure Machine Learning (preview)](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-machine-learning-interpretability) | topic | Notes | 
+| [Normalize Data module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/normalize-data) | topic | Notes |  
+| [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
 | []() | topic | Notes |  
@@ -145,6 +155,11 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | []() | topic | Notes | 
 | []() | topic | Notes |  
 | []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+| []() | topic | Notes |  
+| []() | topic | Notes | 
+
 
 ## Describe features of computer vision workloads on Azure (15-20%)
 

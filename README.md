@@ -309,75 +309,32 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | Topic | An AI service that uncovers insights such as sentiment, entities, relations and key phrases in unstructured text |   
 | [Get started with Text Analytics on Azure](https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/2-get-started-azure) | Topic | Creating a transcript of a phone call is done using speech recognition. Mining customer opinions is an example of sentiment analysis. |
 | [Get started translation in Azure](https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/2-get-started-azure) | Topic | The Translator Text service, which supports text-to-text translation. The Speech service, which enables speech-to-text and speech-to-speech translation |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [What is Bing Autosuggest?](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-autosuggest/get-suggested-search-terms) | Topic | Step |
+| [What is Bing Local Business Search?](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-local-business-search/overview) | Topic | Step |   
+| [Language and region support for text and speech translation](https://docs.microsoft.com/en-us/azure/cognitive-services/Translator/language-support) | Topic | Step |
+| [What is Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-0) | Topic | Step |   
+| [Speech to Text frequently asked questions](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/faq-stt) | Topic | Step |
+| [How to recognize intents from speech using the Speech SDK for C#](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/how-to-recognize-intents-from-speech-csharp) | Topic | Step |   
+| [Text Analytics API (v3.0)](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-0/operations/KeyPhrases) | Topic | analyze unstructured text for tasks such as sentiment analysis, key phrase extraction and language detection. No training data is needed to use this API; just bring your text data. This API uses advanced natural language processing techniques to deliver best in class predictions |
+| [Quickstart: Use the Text Analytics client library and REST API](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/quickstarts/client-libraries-rest-api?tabs=version-3-1&pivots=programming-language-csharp) | Topic | Step |   
+| [Use Cognitive Services in Power Apps](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/cognitive-services-api) | Topic | Step |
+| [Create LUIS resources](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-how-to-azure-subscription) | Topic | Step |   
+| [How to query the prediction runtime with user text](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-get-intent-from-browser?tabs=V3-1-1%2CV3-2-1%2CV3-3-1) | Topic | Step |
+| [Quickstart: Language Understanding (LUIS) client libraries and REST API](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/client-libraries-rest-api?pivots=rest-api&tabs=windows) | Topic | Step |   
+| [Quickstart: Create a Cognitive Services resource using the Azure portal](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows) | Topic | Step |
+| [How to use batch transcription](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/batch-transcription) | Topic | Step |   
+| [Language and voice support for the Speech service](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/language-support) | Topic | Step |
+| [What is a voice assistant?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/voice-assistants) | Topic | Step |   
+| [Understand what good utterances are for your LUIS app](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-utterance) | Topic | Step |
+| [Intents in your LUIS app](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent) | Topic | Step |   
+| [Design with intent and entity models](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-model) | Topic | Step |
+| [Extract data with entities](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-entity-types) | Topic | Step |   
+| [Machine-learning features](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-feature) | Topic | Step |
+| [Prebuilt models](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-prebuilt-model) | Topic | Step |   
+| [Entities per culture in your LUIS model](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-prebuilt-entities) | Topic | Step |
+| [Add prebuilt models for common usage scenarios](https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/howto-add-prebuilt-models) | Topic | Step |   
+| [Prebuilt domain reference for your LUIS app](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-reference-prebuilt-domains) | Topic | Step |
+| [What is machine translation?](https://www.microsoft.com/en-us/translator/business/machine-translation/) | Topic | Step |   
 
 ## Describe features of conversational AI workloads on Azure (15-20%)
 | Resource | Topic | Step |   

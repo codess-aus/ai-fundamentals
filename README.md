@@ -247,9 +247,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Face detection and attributes](https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-detection) | Topic | Step |   
 | [Face detection with Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-faces) | Topic | Step |
 | [Specify a face detection model](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/specify-detection-model) | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [Face mask detection with Azure Cognitive services Custom Vision](https://learnazureaiml.com/face-mask-detection-with-azure-cognitive-services-custom-vision/) | Topic | Step |
+| [What is the Azure Face service?](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview) | Topic | Step |   
+| [How to use Named Entity Recognition in Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3) | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

@@ -230,10 +230,71 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |  
+| [What is Computer Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview) | Topic | Step |   
+| [Detect common objects in images](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-object-detection) | Topic | Bounding box coordinates for all identified objects, animals etc |
+| [SEMANTIC SEGMENTATION AS IMAGE REPRESENTATION FOR SCENE RECOGNITION](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SemanticSegmentation_Final.pdf) | Topic | Pixel-level classification of an image |   
+| [Optical Character Recognition (OCR)](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text) | Topic | Retrieval of printed text from a scanned document |
+| [Face detection with Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-faces) | Topic | Identify human faces, generate a rectangle for each detected face, provide details such as age, gender or emotion |   
+| [Intro to classification of images](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/1-introduction) | Topic | Step |
+| [Get started with image classification on Azure](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/2-azure-image-classification) | Topic | Step |   
+| [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Step |
+| [Get started with OCR on Azure](https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/2-ocr-azure) | Topic | Step |   
+| [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Step |
+| [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Identifies and tags individual features(objects) in a model. Return the coordinates of a box surrounding a tagged visual feature. |   
+| [Computer Vision 86-category taxonomy](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy) | Topic | Step |
+| [Detect color schemes in images](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-color-schemes) | Topic | Detecting colour scheme is an example of image classification |   
+| [Get started with Face analysis on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/2-face-analysis-azure) | Topic | Step |
+| [](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+
 
 
 
@@ -241,7 +302,111 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+
+## Describe features of conversational AI workloads on Azure (15-20%)
 | Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |   
-| Resource | Topic | Step |  
+|------|--------|------------------|
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |

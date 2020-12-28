@@ -293,12 +293,12 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Get started with Text Analytics on Azure](https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/2-get-started-azure) | Topic | Step |   
 | [Example: How to extract key phrases using Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | Topic | evaluates a piece of text and identifies key talking points and popular mentions contained in the text |
 | [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
+| [Supported entity categories in the Text Analytics API v3](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/named-entity-types%20?tabs=general) | Topic | Step |
+| [What is Language Understanding (LUIS)?](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis) | Topic | Step |   
+| [Example user scenarios for the Text Analytics API](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/text-analytics-user-scenarios) | Topic | Step |
+| [What is Azure Content Moderator?](https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/overview) | Topic | an AI service that lets you handle content that is potentially offensive, risky, or otherwise undesirable |   
+| [Introduction to NLP](https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/1-introduction) | Topic | Language modeling aims to interpret the intent from a text statement and extract key information to discover the overall meaning from the text |
+| [Language and region support for LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-language-support) | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |

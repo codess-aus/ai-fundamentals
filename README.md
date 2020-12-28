@@ -299,9 +299,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [What is Azure Content Moderator?](https://docs.microsoft.com/en-us/azure/cognitive-services/content-moderator/overview) | Topic | an AI service that lets you handle content that is potentially offensive, risky, or otherwise undesirable |   
 | [Introduction to NLP](https://docs.microsoft.com/en-us/learn/modules/create-language-model-with-language-understanding/1-introduction) | Topic | Language modeling aims to interpret the intent from a text statement and extract key information to discover the overall meaning from the text |
 | [Language and region support for LUIS](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-language-support) | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [Intro to speech recognition and synthesis](https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/1-introduction) | Topic | Consider the growing number of home and auto systems that you can control by speaking to them - issuing commands such as "turn off the lights", and soliciting verbal answers to questions such as "will it rain today?" |
+| [What is speech translation?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-translation) | Topic | enables real-time, multi-language speech-to-speech and speech-to-text translation of audio streams |   
+| [Get started with OCR on Azure](https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/2-ocr-azure) | Topic | The ability to extract text from images is handled by the Computer Vision service, which also provides image analysis capabilities |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

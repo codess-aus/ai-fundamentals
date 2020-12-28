@@ -302,13 +302,13 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Intro to speech recognition and synthesis](https://docs.microsoft.com/en-us/learn/modules/recognize-synthesize-speech/1-introduction) | Topic | Consider the growing number of home and auto systems that you can control by speaking to them - issuing commands such as "turn off the lights", and soliciting verbal answers to questions such as "will it rain today?" |
 | [What is speech translation?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-translation) | Topic | enables real-time, multi-language speech-to-speech and speech-to-text translation of audio streams |   
 | [Get started with OCR on Azure](https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/2-ocr-azure) | Topic | The ability to extract text from images is handled by the Computer Vision service, which also provides image analysis capabilities |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
+| [Introduction to language translation](https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/1-introduction) | Topic | a translation service that takes into account the semantic context |   
+| [What is Computer Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview) | Topic | Computer Vision can determine whether an image contains adult content, find specific brands or objects, or find human faces |
+| [Azure Media Services v3 overview](https://docs.microsoft.com/en-us/azure/media-services/latest/media-services-overview) | Topic | build solutions that achieve broadcast-quality video streaming, enhance accessibility and distribution, analyze content, and much more |   
+| [Language Understanding](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/#overview) | Topic | Converting a command into smart actions is an example of language modeling. LM interprets the intent of a text command and turns that command into an intent which can be converted into a smart action for a device |
+| [Text Analytics](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | Topic | An AI service that uncovers insights such as sentiment, entities, relations and key phrases in unstructured text |   
+| [Get started with Text Analytics on Azure](https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/2-get-started-azure) | Topic | Creating a transcript of a phone call is done using speech recognition. Mining customer opinions is an example of sentiment analysis. |
+| [Get started translation in Azure](https://docs.microsoft.com/en-us/learn/modules/translate-text-with-translation-service/2-get-started-azure) | Topic | The Translator Text service, which supports text-to-text translation. The Speech service, which enables speech-to-text and speech-to-speech translation |   
 | []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |

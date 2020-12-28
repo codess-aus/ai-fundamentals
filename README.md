@@ -239,14 +239,14 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Get started with image classification on Azure](https://docs.microsoft.com/en-us/learn/modules/classify-images-custom-vision/2-azure-image-classification) | Topic | Step |   
 | [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Step |
 | [Get started with OCR on Azure](https://docs.microsoft.com/en-us/learn/modules/read-text-computer-vision/2-ocr-azure) | Topic | Step |   
-| [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Step |
+| [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Which pixels belong to which object. Used when an AI system needs to understand the context in which it operates, for example, a self-driving car |
 | [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Identifies and tags individual features(objects) in a model. Return the coordinates of a box surrounding a tagged visual feature. |   
 | [Computer Vision 86-category taxonomy](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/category-taxonomy) | Topic | Step |
 | [Detect color schemes in images](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-color-schemes) | Topic | Detecting colour scheme is an example of image classification |   
 | [Get started with Face analysis on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-analyze-faces/2-face-analysis-azure) | Topic | Step |
-| [](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
+| [Face detection and attributes](https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-detection) | Topic | Step |   
+| [Face detection with Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-faces) | Topic | Step |
+| [Specify a face detection model](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/specify-detection-model) | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |

@@ -274,34 +274,30 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [What's new in Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/whats-new) | Topic | New languages supported In addition to English, the following languages are now supported: for Layout and Train Custom Model: English (en), Chinese (Simplified) (zh-Hans), Dutch (nl), French (fr), German (de), Italian (it), Portuguese (pt) and Spanish (es) |
 | [Use the HeadPose attribute](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-headpose) | Topic | Step | You can programmatically rotate the face rectangle by using the HeadPose attribute   
 | [What is Language Understanding (LUIS)?](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis) | Topic | Language Understanding (LUIS) is a cloud-based conversational AI service that applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-
-
 
 
 ## Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
+| [Example: How to extract key phrases using Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | Topic |The Key Phrase Extraction API evaluates unstructured text, and for each JSON document, returns a list of key phrases |   
+| [What is text-to-speech?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/text-to-speech) | Topic | convert text into human-like synthesized speech |   
+| [Improve synthesis with Speech Synthesis Markup Language (SSML)](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-synthesis-markup?tabs=csharp) | Topic | XML-based markup language that lets developers specify how input text is converted into synthesized speech using the text-to-speech service. Compared to plain text, SSML allows developers to fine-tune the pitch, pronunciation, speaking rate, volume, and more of the text-to-speech output |
+| [How to use Named Entity Recognition in Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3) | Topic | Step |   
+| [How to: Sentiment analysis and Opinion Mining](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3) | Topic | If you send a Sentiment Analysis request, the API will return sentiment labels (such as "negative", "neutral" and "positive") and confidence scores at the sentence and document-level. You can also send Opinion Mining requests using the Sentiment Analysis endpoint, which provides granular information about the opinions related to aspects (such as the attributes of products or services) in text |
+| [How to use Named Entity Recognition in Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3) | Topic | Step |
+| [What is the Translator service?](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview) | Topic | allows you to add multi-language user experiences in more than 70 languages |   
+| [What is speech-to-text?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/speech-to-text) | Topic | Speech-to-text, also known as speech recognition, enables real-time transcription of audio streams into text |
+| [What is speech translation?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/speech-translation) | Topic | speech translation service, which enables real-time, multi-language speech-to-speech and speech-to-text translation of audio streams |   
+| [Example: Detect language with Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-language-detection) | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

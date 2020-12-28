@@ -290,9 +290,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [What is speech-to-text?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/speech-to-text) | Topic | Speech-to-text, also known as speech recognition, enables real-time transcription of audio streams into text |
 | [What is speech translation?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/speech-translation) | Topic | speech translation service, which enables real-time, multi-language speech-to-speech and speech-to-text translation of audio streams |   
 | [Example: Detect language with Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-language-detection) | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
+| [Get started with Text Analytics on Azure](https://docs.microsoft.com/en-us/learn/modules/analyze-text-with-text-analytics-service/2-get-started-azure) | Topic | Step |   
+| [Example: How to extract key phrases using Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | Topic | evaluates a piece of text and identifies key talking points and popular mentions contained in the text |
+| [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |

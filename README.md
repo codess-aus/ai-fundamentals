@@ -250,30 +250,30 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Face mask detection with Azure Cognitive services Custom Vision](https://learnazureaiml.com/face-mask-detection-with-azure-cognitive-services-custom-vision/) | Topic | Step |
 | [What is the Azure Face service?](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview) | Topic | Step |   
 | [How to use Named Entity Recognition in Text Analytics](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking?tabs=version-3) | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [What is the Anomaly Detector API?](https://docs.microsoft.com/en-gb/azure/cognitive-services/anomaly-detector/overview) | Topic | Step |   
+| [What is Speaker Recognition (Preview)?](https://docs.microsoft.com/en-gb/azure/cognitive-services/speech-service/speaker-recognition-overview) | Topic | “who is speaking?” |
+| [Query the knowledge base for answers](https://docs.microsoft.com/en-gb/azure/cognitive-services/QnAMaker/concepts/query-knowledge-base?tabs=v1) | Topic | Step |   
+| [Detect adult content](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-detecting-adult-content) | Topic | Computer Vision can detect adult material in images so that developers can restrict the display of these images in their software. Content flags are applied with a score between zero and one so developers can interpret the results according to their own preferences |
+| [What is the Translator service?](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview) | Topic | Translator is a cloud-based machine translation service and is part of the Azure Cognitive Services family of cognitive APIs used to build intelligent apps. Translator is easy to integrate in your applications, websites, tools, and solutions. It allows you to add multi-language user experiences in more than 70 languages, and can be used on any hardware platform with any operating system for text translation |   
+| [What is Custom Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/overview) | Topic | Step |
+| [Module: K-Means Clustering](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/k-means-clustering) | Topic | Step |   
+| [What is Azure Media Services Video Indexer?](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-overview) | Topic | Step |
+| [Face recognition concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/face/concepts/face-recognition) | Topic | Step |   
+| [What are the Bing Search APIs?](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search/bing-api-comparison) | Topic | Step |
+| [What is the Bing Visual Search API?](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-visual-search/overview) | Topic | Recipes, where to buy, similar |   
+| [Images - Visual Search](https://docs.microsoft.com/en-us/rest/api/cognitiveservices/bingvisualsearch/images/visualsearch) | Topic | Visual Search API lets you discover insights about an image such as visually similar images, shopping sources, and related searches. The API can also perform text recognition, identify entities (people, places, things), return other topical content for the user to explore, and more |
+| [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Azure Cognitive Services | The Text Analytics API is a cloud-based service that provides Natural Language Processing (NLP) features for text mining and text analysis, including: sentiment analysis, opinion mining, key phrase extraction, language detection, and named entity recognition |   
+| [What is Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-0) | Topic | extract text, selection marks, and table structure (the row and column numbers associated with the text) using high-definition optical character recognition (OCR) |
+| [Receipt concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/concept-receipts) | Topic | Azure Form Recognizer can analyze receipts using one of its prebuilt models. The Receipt API extracts key information from sales receipts in English, such as merchant name, transaction date, transaction total, line items, and more |   
+| [What is Personalizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/personalizer/what-is-personalizer) | Topic | choose the best content item to show your users |
+| [What is Azure Media Services Video Indexer?](https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-overview) | Azure Cognitive Services | Get deep insights into large video archives through multi-channel (audio and video) analysis. |   
+| [What is the Bing Image Search API?](https://docs.microsoft.com/en-us/azure/cognitive-services/Bing-Image-Search/overview) | Topic | By sending search queries to the API, you can get high-quality images |
+| [Business card concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/concept-business-cards) | Topic | The Business Card API combines powerful Optical Character Recognition (OCR) capabilities with our Business Card Understanding model to extract key information from business cards in English |   
+| [Receipt concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/concept-receipts) | Topic | The Receipt API extracts key information from sales receipts in English, such as merchant name, transaction date, transaction total, line items, and more. |
+| [Train a Form Recognizer model with labels using the sample labeling tool](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/quickstarts/label-tool?tabs=v2-0) | Topic | Step |   
+| [What's new in Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/whats-new) | Topic | New languages supported In addition to English, the following languages are now supported: for Layout and Train Custom Model: English (en), Chinese (Simplified) (zh-Hans), Dutch (nl), French (fr), German (de), Italian (it), Portuguese (pt) and Spanish (es) |
+| [Use the HeadPose attribute](https://docs.microsoft.com/en-us/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-headpose) | Topic | Step | You can programmatically rotate the face rectangle by using the HeadPose attribute   
+| [What is Language Understanding (LUIS)?](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/what-is-luis) | Topic | Language Understanding (LUIS) is a cloud-based conversational AI service that applies custom machine-learning intelligence to a user's conversational, natural language text to predict overall meaning, and pull out relevant, detailed information |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

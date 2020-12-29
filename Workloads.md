@@ -8,12 +8,12 @@
 * [5. Identify conversational AI workloads](#5-identify-conversational-ai-workloads)
 
 ## Identify guiding principles for responsible AI
-* describe considerations for fairness in an AI solution
-* describe considerations for reliability and safety in an AI solution
-* describe considerations for privacy and security in an AI solution
-* describe considerations for inclusiveness in an AI solution
-* describe considerations for transparency in an AI solution
-* describe considerations for accountability in an AI solution
+* [6. Describe considerations for fairness in an AI solution](6-Describe-considerations-for-fairness-in-an-AI-solution)
+* [7. Describe considerations for reliability and safety in an AI solution](7-describe-considerations-for-reliability-and-safety-in-an-AI-solution)
+* [8. Describe considerations for privacy and security in an AI solution](8-Describe-considerations-for-privacy-and-security-in-an-AI-solution)
+* [9. Describe considerations for inclusiveness in an AI solution](9-Describe-considerations-for-inclusiveness-in-an-AI-solution)
+* [10. Describe considerations for transparency in an AI solution](10-Describe-considerations-for-transparency-in-an-AI-solution)
+* [11. Describe considerations for accountability in an AI solution](11-Describe-considerations-for-accountability-in-an-AI-solution)
 
 ### 1. Identify prediction forecasting workloads:
 Predicting whether an airplane arrives early, on-time or late. A ML model analyzes patterns in the data: Departure time, weather conditions, air-traffic volumes and associates historical patterns to predict or forecast the possible outcome.
@@ -79,7 +79,7 @@ Detecting spam in emails. Analyzes text in email to determine if it contains a s
 
 Language translation (Speech services)
 
-# 5. Identify conversational AI workloads: 
+### 5. Identify conversational AI workloads: 
 Providing answers to a customer in a chatbot dialog. A chatbot backend processes input for a customer and sends back answers based on a knowledge base.
 
 Chatbot answers common customer questions.
@@ -91,3 +91,43 @@ Used to create applications in which AI agents engage with humans in conversatio
 Answering FAQs.
 
 Making Travel Reservations.
+
+### 6. Describe considerations for fairness in an AI solution
+
+AI systems should treat all people fairly
+
+For example, suppose you create a machine learning model to support a loan approval application for a bank. The model should make predictions of whether or not the loan should be approved without incorporating any bias based on gender, ethnicity, or other factors that might result in an unfair advantage or disadvantage to specific groups of applicants.
+
+Azure Machine Learning includes the capability to interpret models and quantify the extent to which each feature of the data influences the model's prediction. This capability helps data scientists and developers identify and mitigate bias in the model.
+
+### 7. Describe considerations for reliability and safety in an AI solution
+
+AI systems should perform reliably and safely.
+
+For example, consider an AI-based software system for an autonomous vehicle; or a machine learning model that diagnoses patient symptoms and recommends prescriptions. Unreliability in these kinds of system can result in substantial risk to human life.
+
+AI-based software application development must be subjected to rigorous testing and deployment management processes to ensure that they work as expected before release.
+
+### 8. Describe considerations for privacy and security in an AI solution
+
+AI systems should be secure and respect privacy.
+
+The machine learning models on which AI systems are based rely on large volumes of data, which may contain personal details that must be kept private. Even after the models are trained and the system is in production, it uses new data to make predictions or take action that may be subject to privacy or security concerns.
+
+### 9. Describe considerations for inclusiveness in an AI solution
+
+AI systems should empower everyone and engage people.
+
+AI should bring benefits to all parts of society, regardless of physical ability, gender, sexual orientation, ethnicity, or other factors.
+
+### 10. Describe considerations for transparency in an AI solution
+
+AI systems should be understandable.
+
+Users should be made fully aware of the purpose of the system, how it works, and what limitations may be expected.
+
+### 11. Describe considerations for accountability in an AI solution
+
+People should be accountable for AI systems.
+
+Designers and developers of AI-based solution should work within a framework of governance and organizational principles that ensure the solution meets ethical and legal standards that are clearly defined.

@@ -174,17 +174,29 @@ Classification and Regression both involve using features and labeled data (supe
 
 Feature selection is the process of selecting a subset of relevant features(variables or predictors) to use in building an ML model.
 
+Feature Engineering is used to increase the predictive power of a ML model.
+
+Feature engineering is the process of creating new features from raw data to increase the predictive power of the ML model. Engineered Features capture additional information that is not available in the original feature set. Examples of Feature Engineering are aggregating data, calculating a moving average and calculating the difference over time.
+
+Feature Selection is the process of selecting a subset of relevant features to use when building and training the model. Feature selection restricts the data to the most valuable inputs, reducing noise and improving training performance.
+
 ### 10. describe common features of model training and evaluation
 
 To measure the accuracy of the predictions and assess model fit you should evaluate the model. Once the model is trained and scored, you can evaluate the scores to measure the acuracy (performance) of a trained model.
 
-Evaluation is the process of measuring accuracy (performance) of a trained model.
+Evaluation is the process of measuring accuracy (performance) of a trained model. A set of metrics are used to measure how acurate the predictions of the model are. Evaluation is part of training your model. You normally remove the evaluate model module from the inference pipeline.
 
 The metrics used in the evaluation process vary depending on the ML type. For example, you can use Precision and Recall with Classification models, RMSE with Regression and ADTCC with Clustering models.
 
-32
+Data Parallelism and Model parallelism are the two main types of distributed training. With Data Parallelism you divide data into partitions, where the number of partitions is equal to the number of compute nodes, which are used to train a machine learning model. The model is copied into each compute node to operate on an allocated subset of data. With Model Parallelism the model is segmented into different parts to run concurrently on different compute nodes, each operating on the same data.
+
+Compute Clusters are used to train your model. You need to create an Inference Cluster to deploy your model.
+
+After Training a Model, but Prior to Deploying it as a Web Service you should Create an Inference Pipeline from the Training Pipeline. This pipeline performs the same steps for the new data input, not the sample data used in training. The new pipeline is an inference pipeline that will be used for predictions. You will publish the inference pipeline as a web service.
 
 ### 11. describe common features of model deployment and management
+
+You can deploy a ML model as a web service to Azure Container Instances (ACI) and Azure Kubernetes Service (AKS). Both are supported as the compute targets for the containerized model deployments. ACI offers the fastest and simplest way to run isolated containers, while AKS provides full container orchestration, including autoscaling, coordinated application upgrases and service discovery across multiple containers.
 
 ### 12. automated Machine Learning UI
 

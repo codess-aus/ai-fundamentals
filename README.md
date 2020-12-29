@@ -366,18 +366,18 @@ Azure Bot Service. This service provides a framework for developing, publishing,
 | [Edit QnA pairs in your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/edit-knowledge-base) | Topic | Step |
 | [Azure resources for QnA Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/azure-resources?tabs=v1) | Topic | Step |   
 | [Manage QnA Maker resources](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure?tabs=v1) | Topic | Step |
-| [Add Chit-chat to a knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/chit-chat-knowledge-base?tabs=v1) | Topic | Adding chit-chat to your bot makes it more conversational and engaging. The chit-chat feature in QnA maker allows you to easily add a pre-populated set of the top chit-chat, into your knowledge base (KB). This can be a starting point for your bot's personality, and it will save you the time and cost of writing them from scratch |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [Add Chit-chat to a knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/chit-chat-knowledge-base?tabs=v1) | Topic | Adding chit-chat to your bot makes it more conversational and engaging. The chit-chat feature in QnA maker allows you to easily add a pre-populated set of the top chit-chat, into your knowledge base (KB). This can be a starting point for your bot's personality, and it will save you the time and cost of writing them from scratch  |   
+| [Debug with the Emulator](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-debug-emulator?view=azure-bot-service-4.0&tabs=csharp) | Topic | The Bot Framework Emulator is a desktop application that allows bot developers to test and debug their bots, either locally or remotely |
+| [Bot Service templates](https://docs.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-concept-templates?view=azure-bot-service-3.0) | Topic | Basic Bot, form bot, LU Bot, Q&ABot, Proactive Bot |   
+| [Bot Framework CLI tool](https://docs.microsoft.com/en-us/azure/bot-service/bf-cli-overview?view=azure-bot-service-4.0) | Topic | replaces the collection of standalone tools used to manage Bot Framework bots and related services |
+| [Introduction to Bot Framework Composer](https://docs.microsoft.com/en-us/composer/introduction) | Topic | Step |   
+| [3 Different Flavors For Building Chatbots With Microsoft](https://arinti.ai/3-different-flavors-for-building-chatbots-with-microsoft/) | Topic | Step |
+| [Skills overview](https://docs.microsoft.com/en-us/azure/bot-service/skills-conceptual?view=azure-bot-service-4.0) | Topic | Starting with version 4.7 of the Bot Framework SDK, you can extend a bot using another bot (a skill). A skill can be consumed by various other bots, facilitating reuse, and in this way, you can create a user-facing bot and extend it by consuming your own or 3rd party skills |   
+| [Use Cognitive Services with natural language processing (NLP) to enrich bot conversations](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/choose-natural-language-processing-service) | Topic | Step |
+| [Use multiple LUIS and QnA models](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-tutorial-dispatch?view=azure-bot-service-4.0&tabs=cs) | Topic | If a bot uses multiple LUIS models and QnA Maker knowledge bases (knowledge bases), you can use Dispatch tool to determine which LUIS model or QnA Maker knowledge base best matches the user input |   
+| [Use a Microsoft Bot Framework bot with Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/advanced-use-dispatcher) | Topic | use the Microsoft Bot Framework dispatcher tool to integrate an existing bot with a Power Virtual Agents bot |
+| [Plan your QnA Maker app](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/plan?tabs=v1) | Topic | A single QnA Maker resource can host more than one knowledge base |   
+| [Question and answer pair concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/question-answer-set) | Topic | A knowledge base consists of question and answer (QnA) pairs. Each pair has one answer and a pair contains all the information associated with that answer |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

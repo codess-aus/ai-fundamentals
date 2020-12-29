@@ -339,6 +339,35 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 ## Describe features of conversational AI workloads on Azure (15-20%)
 | Resource | Topic | Step |   
 |------|--------|------------------|
+| [What are Cloud auto attendants?](https://docs.microsoft.com/en-us/microsoftteams/what-are-phone-system-auto-attendants) | Topic | Phone System provides auto attendants, which can be used to let external and internal callers move through a menu system to locate and place or transfer calls to users or departments in your organization |   
+| [Cortana Skills Kit](https://docs.microsoft.com/en-us/cortana/skills/overview) | Topic | Cortana is a personal digital assistant that keeps users informed and productive, helping them get things done across devices and platforms. Skills define the tasks that Cortana can accomplish. You can extend Cortana by adding your own skills that let your users interact with your service via Cortana. Cortana invokes the skills based on input from the user, either spoken or typed |
+| [How bots work](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0&tabs=csharp) | Topic | A bot is an app that users interact with in a conversational way, using text, graphics (such as cards or images), or speech. Azure Bot Service is a cloud platform. It hosts bots and makes them available to channels |   
+| [Get started with QnA Maker and Azure Bot Service](https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/2-get-started-qna-bot) | Topic | QnA Maker. This cognitive service enables you to create and publish a knowledge base with built-in natural language processing capabilities.
+Azure Bot Service. This service provides a framework for developing, publishing, and managing bots on Azure |
+| [What is the Bot Framework SDK?](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0) | Topic | The Bot Framework, along with the Azure Bot Service, provides tools to build, test, deploy, and manage intelligent bots |   
+| [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Step |
+| [What is speech-to-text?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speech-to-text) | Topic | Speech-to-text, also known as speech recognition, enables real-time transcription of audio streams into text |   
+| [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | Step |
+| [Build a bot with QnA Maker and Azure Bot Service](https://docs.microsoft.com/en-us/learn/modules/build-faq-chatbot-qna-maker-azure-bot-service/1-introduction) | Topic | organizations are turning to artificial intelligence (AI) solutions that make use of AI agents, commonly known as bots to provide a first-line of automated support through the full range of channels that we use to communicate. Bots are designed to interact with users in a conversational manner |   
+| [Connect a bot to channels](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-manage-channels?view=azure-bot-service-4.0) | Topic | A channel is a connection between communication applications and a bot. A bot, registered with Azure, uses channels to facilitate the communication with users. You can configure a bot to connect to any of the standard channels such as Alexa, Cortana, Facebook Messenger, and Slack |
+| [What is the Text Analytics API?](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/overview) | Topic | The Text Analytics API is a cloud-based service that provides Natural Language Processing (NLP) features for text mining and text analysis, including: sentiment analysis, opinion mining, key phrase extraction, language detection, and named entity recognition |   
+| [Get started with object detection on Azure](https://docs.microsoft.com/en-us/learn/modules/detect-objects-images-custom-vision/2-object-detection-azure) | Topic | The Custom Vision cognitive service in Azure enables you to create object detection models that meet the needs of many computer vision scenarios with minimal deep learning expertise and fewer training images |
+| [Understanding the Difference Between a Bot, a Chatbot, and a Robot](https://blog.hubspot.com/customers/understanding-the-difference-between-a-chat-bot-and-robot) | Topic | Step |   
+| [An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/) | Topic | Step |
+| [Interactive Voice Response Bot](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/interactive-voice-response-bot) | Topic | Step |   
+| [AI and bot terms](https://docs.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/term-collections/ai-bot-terms%20) | Topic | Do not tell anyone the bots are rising up and taking over |
+| [Cortana Skills Bot Scenario](https://docs.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-scenario-cortana-skill?view=azure-bot-service-3.0) | Topic | The Cortana Skills Bot extends Cortana to make it easy to book a mobile auto maintenance appointment using voice with context from your calendar |   
+| [Bot scenarios](https://docs.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-scenario-overview?view=azure-bot-service-3.0) | Topic | Step |
+| [Virtual Assistant Overview](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-virtual-assistant-introduction?view=azure-bot-service-4.0) | Topic | Step |   
+| [Add rich card attachments to messages the v3 C# SDK](https://docs.microsoft.com/en-us/previous-versions/azure/bot-service/dotnet/bot-builder-dotnet-add-rich-card-attachments?view=azure-bot-service-3.0) | Topic | A message exchange between user and bot can contain one or more rich cards rendered as a list or carousel |
+| [5 CONVERSATIONAL AI USE CASES](https://www.csgi.com/insights/5-conversational-ai-use-cases/) | Topic | Step |   
+| [What is QnA Maker?](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview) | Topic | QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information |   
+| [Importing from Datasources](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/) | Topic | Step |   
+| [Edit QnA pairs in your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/edit-knowledge-base) | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
+| []() | Topic | Step |   
+| []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

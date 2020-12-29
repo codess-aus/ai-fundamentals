@@ -37,10 +37,21 @@ Describe capabilities of no-code machine learning with Azure Machine Learning:
 
 
 ### 1. Identify regression machine learning scenarios
+Example: Predicting the online sales volume for the next financial quarter by using historical sales volume data and holiday seasons, pre-orders etc
+
+In a regression ML scenario you predict a numeric value, typically in a continuous form.
+
 
 ### 2. Identify classification machine learning scenarios
+Example: Check whether newly arrived emails contain spam.
+
+Classification is used to make predictions in a non-continuous form. Learning from labeled data to classify new observations.
+
 
 ### 3. Identify clustering machine learning scenarios
+Example: To learn about purchasing habits of ecommerce clients.
+
+Clustering analyzes data to find similarities in data points and groups them together using unlabelled data.
 
 ### 4. Identify features and labels in a dataset for machine learning
 

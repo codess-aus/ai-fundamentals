@@ -364,9 +364,9 @@ Azure Bot Service. This service provides a framework for developing, publishing,
 | [What is QnA Maker?](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/overview/overview) | Topic | QnA Maker is a cloud-based Natural Language Processing (NLP) service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base (KB) of information |   
 | [Importing from Datasources](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/) | Topic | Step |   
 | [Edit QnA pairs in your knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/edit-knowledge-base) | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
+| [Azure resources for QnA Maker](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/concepts/azure-resources?tabs=v1) | Topic | Step |   
+| [Manage QnA Maker resources](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure?tabs=v1) | Topic | Step |
+| [Add Chit-chat to a knowledge base](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/chit-chat-knowledge-base?tabs=v1) | Topic | Adding chit-chat to your bot makes it more conversational and engaging. The chit-chat feature in QnA maker allows you to easily add a pre-populated set of the top chit-chat, into your knowledge base (KB). This can be a starting point for your bot's personality, and it will save you the time and cost of writing them from scratch |   
 | []() | Topic | Step |
 | []() | Topic | Step |   
 | []() | Topic | Step |

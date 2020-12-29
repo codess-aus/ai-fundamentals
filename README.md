@@ -380,15 +380,12 @@ Azure Bot Service. This service provides a framework for developing, publishing,
 | [Question and answer pair concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/question-answer-set) | Topic | A knowledge base consists of question and answer (QnA) pairs. Each pair has one answer and a pair contains all the information associated with that answer |
 | [What is Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-0) | Topic | a cognitive service that lets you build automated data processing software using machine learning technology. Identify and extract text, key/value pairs, selection marks, tables, and structure from your documents—the service outputs structured data that includes the relationships in the original file, bounding boxes, confidence and more |   
 | [What is Speaker Recognition (Preview)?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview) | Topic | service provides algorithms that verify and identify speakers by their unique voice characteristics using voice biometry. Speaker Recognition is used to answer the question “who is speaking?” |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [About skill bots](https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-bots?view=azure-bot-service-4.0) | Topic | A skill is a bot. A skill manifest is a JSON file. |   
+| [About skill consumers](https://docs.microsoft.com/en-us/azure/bot-service/skills-about-skill-consumers?view=azure-bot-service-4.0) | Topic | A skill consumer is a bot that can call one or more skills. With respect to skills, a root bot is a user-facing bot that is also a skill consumer. From the user's perspective, the root bot is the bot they are interacting with. From the skill's perspective, the skill consumer is the channel over which it communicates with the user |
+| [Connect a bot to Web Chat](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-webchat?view=azure-bot-service-4.0) | Topic | When you create a bot with the Framework Bot Service, the Web Chat channel is automatically configured for you |   
+| [Connect a bot to Office 365 email](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-email?view=azure-bot-service-4.0) | Topic | When a bot is configured to access an email account, it receives a message when a new email arrives. The bot can then respond as indicated by its business logic |
+| [Connect a bot to Microsoft Teams](https://docs.microsoft.com/en-us/azure/bot-service/channel-connect-teams?view=azure-bot-service-4.0) | Topic | Step |   
+| [Introduction to Bot Framework Composer](https://docs.microsoft.com/en-us/composer/introduction) | Topic | Bot Framework Composer is an open-source visual authoring canvas for developers and multidisciplinary teams to build bots. Composer integrates language understanding services such as LUIS and QnA Maker and allows sophisticated composition of bot replies using Language Generation. Composer is available as a desktop application as well as a web-based component |
+| [Install Bot Framework Composer](https://docs.microsoft.com/en-us/composer/install-composer) | Topic | Step |   
+| [Create your first bot](https://docs.microsoft.com/en-us/composer/quickstart-create-bot) | Topic | Step |
+| [Publish a bot](https://docs.microsoft.com/en-us/composer/how-to-publish-bot) | Topic | Step |   

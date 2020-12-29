@@ -22,19 +22,26 @@ Predicting whether a customer would buy certain items based on their purchase hi
 
 Predicting whether customers should be targeted in a new marketing campaign.
 
-### Example of NLP Workload:
-Detecting the language in the provided text document. The ML model evaluates the text input and returns the language with a score between 0 and 1 to reflect it's confidence.
+Determining the likely repair costs for an accident involving a vehicle. An ML model finds patterns in the provided information such as the amount of damage, the location of damage, and the parts damaged. This is compared with historical data to predict the amount of time required to repair the damage and the cost of the repair.
 
-Analyzing customer feedback on an ecommerce website to determine whether it is positive or negative. An ML model evaluates the content of the provided feedback and returns sentiment labels and confidence scores for each sentence and overall content.
+Uses historical data to predict or forecast an outcome based on the data input into the model
 
-Extracting key phrases from student essays. Discards non-essential words and returns single terms or phrases that appear to be the subject or the object of the relevant sentences.
+### Example of Anomaly Detection:
+AD is the process of using ML to find unexpected values or events. Analyzes time series data to determine the boundaries of expected values and detect abnormalities that differ from the expected norm.
 
-### Example of a Conversational AI Workload: 
-Providing answers to a customer in a chatbot dialog. A chatbot backend processes input for a customer and sends back answers based on a knowledge base.
+Anomalies can be detected by AI as they occur in real-time. The ML model can derive the possible boundaries of the norm from previously seen data and then determine whether the latest data point in the time series is an anomaly or not.
 
-Chatbot answers common customer questions.
+Anomaly detection boundaries that are automatically created by AI are not immutable. AI automatically generates anomaly detection boundaries for the data points seen in the streamed or batched data. However you can still manually adjust those boundaries to make your model more or less sensitive to the data anomalies as required.
 
-Using graphics and menu's to improve the user experience with an ecommerce websites chatbot. The chatbot's functionality is extended beyond the default text interface with more interactive components such as graphics, menu's and buttons to improve the user experience.
+Detecting abnormal events in a vehicles engine. Anomaly detection detects unusual patterns or events in a stream of data.
+
+Detects unusual patterns or events, enabling pre-emptive action to be taken before a problem occurs. It monitors streams of data from devices and systems and identifies unusual events, patterns, changes that could indicate degradation or future failure. By flagging these issues, action can be taken to resolve the potential problem before it adversely affects the operation. 
+
+Does not predict when a problem will occur or if one will. Just identifies issues that should be investigated. It does not extract insights from the data, but instead alerts when something out of the ordinary disrupts the expected pattern.
+
+Discovering financial system fraud.
+
+Detecting a change in hospital infection rates.
 
 ### Example of a Computer Vision Workload:
 Detecting predestrians in the real-time video stream of an autonomous vehicle. Returns bounding box coordinates for pedestrians.
@@ -47,12 +54,40 @@ Computer Vision can be used to analyse static images such as objects, living thi
 
 Computer Vision can also be used to analyze live video streams, requires processing the individual frames first but processing can be overlaid in near-real-time.
 
-### Example of Anomaly Detection:
-AD is the process of using ML to find unexpected values or events. Analyzes time series data to determine the boundaries of expected values and detect abnormalities that differ from the expected norm.
+Detecting the speed limit using roadside signage. Computer vision can takes images or video streams and extract text from the signs on the roadside.
 
-Anomalies can be detected by AI as they occur in real-time. The ML model can derive the possible boundaries of the norm from previously seen data and then determine whether the latest data point in the time series is an anomaly or not.
+Determining the distance to the vehicle in front can be detected as objects and calculated.
 
-Anomaly detection boundaries that are automatically created by AI are not immutable. AI automatically generates anomaly detection boundaries for the data points seen in the streamed or batched data. However you can still manually adjust those boundaries to make your model more or less sensitive to the data anomalies as required.
+Interpret the contents of the image and classify it, detect objects in it and analyze and describe the image.
 
-### Example of Knowledge Mining:
-Use the power of AI to explore vast amounts of information to get better insight and uncover hidden relationship and patterns in your data.
+Detecting abnormalities in health scans. Computer vision interprets and classifies images. The custom vision service can be used to train a model with images of scans, some of which have abnormalities and some of which do not. CV can then classify new images with a score between 0 and 1 according to the probability of having abnormalities, where 1 indicates the highest probability.
+
+### Example of NLP Workload:
+Detecting the language in the provided text document. The ML model evaluates the text input and returns the language with a score between 0 and 1 to reflect it's confidence.
+
+Analyzing customer feedback on an ecommerce website to determine whether it is positive or negative. An ML model evaluates the content of the provided feedback and returns sentiment labels and confidence scores for each sentence and overall content.
+
+Extracting key phrases from student essays. Discards non-essential words and returns single terms or phrases that appear to be the subject or the object of the relevant sentences.
+
+Knowledge Mining: Use the power of AI to explore vast amounts of information to get better insight and uncover hidden relationship and patterns in your data. KM uses a combination of AI services to extract meaning and relationships from large amounts of data. This information can be held in structured and unstructured data sources, documents and databases. KM uncovers hidden insights in your data.
+
+Interpret written text. Determine the language and the sentiment expressed. Extract key phrases, identify key entities and actions.
+
+Translating commands into actions is performed using NLP that extracts key phrases, intents and actions from written and spoken text.
+
+Detecting spam in emails. Analyzes text in email to determine if it contains a spam message.
+
+Language translation (Speech services)
+
+### Example of a Conversational AI Workload: 
+Providing answers to a customer in a chatbot dialog. A chatbot backend processes input for a customer and sends back answers based on a knowledge base.
+
+Chatbot answers common customer questions.
+
+Using graphics and menu's to improve the user experience with an ecommerce websites chatbot. The chatbot's functionality is extended beyond the default text interface with more interactive components such as graphics, menu's and buttons to improve the user experience.
+
+Used to create applications in which AI agents engage with humans in conversations (dialogs). Commonly through web-chat bots.
+
+Answering FAQs.
+
+Making Travel Reservations.

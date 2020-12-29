@@ -126,17 +126,21 @@ The Random Seed Setting is an integer value that helps to ensure reproducibility
 
 ### 7. Select and interpret model evaluation metrics for classification and regression
 
-AUC value of 0.4 means that the model is performing worse than a random guess. AUC values range between 0 and 1. The higher the value the better the performance of the classification model. A value of 0.5 indicates prediction is close to a random guess.
-
-Regression Metrics: MAE - Mean absolute error. How close prediction is to actual outcome. The lower the score, the better.
-
-Metrics: R2 - Coefficient of Determination (1 is perfect, 0 is random)
-
-Metrics: RMSE - Root mean squared error
+Classification Metrics: AUC value of 0.4 means that the model is performing worse than a random guess. AUC values range between 0 and 1. The higher the value the better the performance of the classification model. A value of 0.5 indicates prediction is close to a random guess.
 
 Classification Metrics: Precision is the proportion of true results over all positive results.
 
 Classification Metrics: Recall is the fraction of all correct results returned by the model
+
+Classification Metrics: F-Score is computed as weighted average of Precision and recall.
+
+Metrics used to evaluate regression methods are generally focused on estimating the amount of error, where a small difference between observed and predicted values is an indicator of a better fit model
+
+Regression Metrics: MAE - Mean absolute error. How close prediction is to actual outcome. The lower the score, the better.
+
+Regression Metrics: R2 - Coefficient of Determination (1 is perfect, 0 is random)
+
+Regression Metrics: RMSE - Root mean squared error
 
 Clustering Metrics: Average distance to cluster center
 
@@ -146,9 +150,39 @@ Clustering Metrics: Number of Points
 
 You split data as part of the data transformation process, where certain part of the data is allocated to train ML model and another part to test it.
 
+You can divide a dataset using regular expression. One set will contain rows with values that match the regular expression and another set will contain all the remaining rows.
+
+You can split a dataset for training/testing by rows. It can be done randomly or using some criteria such as regular expressions.
+
+Sampling is a technique used in machine learning to reduce the size of the dataset, but still maintaining the same ratio of values.
+
+Splitting is a method that is useful for dividing the dataset into training and testing subsets to feed the model during it's training process and then test it's fit.
+
+Normalization is a technique used in the data preparation. You transform the values of numeric columns to use a common scale, for example between 0 and 1 without impacting the differences in the value anges or losing information itself.
+
+Feature Hashing is used to tranform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
+
+Data Ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training ML models. Raw data may come in different formats so extracting and converting it into supported format is a critical prep task in the ML models training process.
+
+Value clipping is the process of removing outliers.
+
 ### 9. describe common features of feature selection and engineering
 
+Example: House Location and Number of bedrooms are features. Label is price.
+
+Classification and Regression both involve using features and labeled data (supervised learning). The data acts as a teacher and trains the model.
+
+Feature selection is the process of selecting a subset of relevant features(variables or predictors) to use in building an ML model.
+
 ### 10. describe common features of model training and evaluation
+
+To measure the accuracy of the predictions and assess model fit you should evaluate the model. Once the model is trained and scored, you can evaluate the scores to measure the acuracy (performance) of a trained model.
+
+Evaluation is the process of measuring accuracy (performance) of a trained model.
+
+The metrics used in the evaluation process vary depending on the ML type. For example, you can use Precision and Recall with Classification models, RMSE with Regression and ADTCC with Clustering models.
+
+32
 
 ### 11. describe common features of model deployment and management
 

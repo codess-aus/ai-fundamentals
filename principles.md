@@ -194,6 +194,8 @@ Compute Clusters are used to train your model. You need to create an Inference C
 
 After Training a Model, but Prior to Deploying it as a Web Service you should Create an Inference Pipeline from the Training Pipeline. This pipeline performs the same steps for the new data input, not the sample data used in training. The new pipeline is an inference pipeline that will be used for predictions. You will publish the inference pipeline as a web service.
 
+If the model has low training error and high accuracy but after you deploy it you see a high error rate when predicting new values you should cross-validate the model. Low Training Error with high Testing Error is known as Overfitting. Overfitting means that the model does not generalise well from training data to unseen data, especially for that data that is different from the training data. Common causes are bias in the training data or too many features, meaning that the model cannot distinguish between the signal and the noise.
+
 ### 11. describe common features of model deployment and management
 
 You can deploy a ML model as a web service to Azure Container Instances (ACI) and Azure Kubernetes Service (AKS). Both are supported as the compute targets for the containerized model deployments. ACI offers the fastest and simplest way to run isolated containers, while AKS provides full container orchestration, including autoscaling, coordinated application upgrases and service discovery across multiple containers.

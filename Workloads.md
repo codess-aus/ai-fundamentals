@@ -42,3 +42,17 @@ Detecting predestrians in the real-time video stream of an autonomous vehicle. R
 Detecting whether people in on-line posted images are celebrities. An ML model training with domain specific content, for example, celebrities, can determine if they are among the people detected in the online-posted images.
 
 Generating automatic descriptions for published images. Analyzes published images and generates human readable sentences describing the image content. Sentences ae ordered by the confidence score that the model assigns to each sentence as per the visual features detected.
+
+Computer Vision can be used to analyse static images such as objects, living things or scenery.
+
+Computer Vision can also be used to analyze live video streams, requires processing the individual frames first but processing can be overlaid in near-real-time.
+
+### Example of Anomaly Detection:
+AD is the process of using ML to find unexpected values or events. Analyzes time series data to determine the boundaries of expected values and detect abnormalities that differ from the expected norm.
+
+Anomalies can be detected by AI as they occur in real-time. The ML model can derive the possible boundaries of the norm from previously seen data and then determine whether the latest data point in the time series is an anomaly or not.
+
+Anomaly detection boundaries that are automatically created by AI are not immutable. AI automatically generates anomaly detection boundaries for the data points seen in the streamed or batched data. However you can still manually adjust those boundaries to make your model more or less sensitive to the data anomalies as required.
+
+### Example of Knowledge Mining:
+Use the power of AI to explore vast amounts of information to get better insight and uncover hidden relationship and patterns in your data.

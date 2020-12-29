@@ -1,11 +1,11 @@
 # Describe Artificial Intelligence workloads and considerations (15-20%)
 
 ## Identify features of common AI workloads
-* [Identify prediction forecasting workloads](#identify-prediction-forecasting-workloads)
+* [1. Identify prediction forecasting workloads](#1-identify-prediction-forecasting-workloads)
 * [Identify features of anomaly detection workloads](#identify-features-of-anomaly-detection-workloads)
 * [Identify computer vision workloads](#identify-computer-vision-workloads)
 * [Identify natural language processing or knowledge mining workloads](#identify-natural-language-processing-or-knowledge-mining-workloads)
-* [Identify conversational AI workloads](#identify-conversational-ai-workloads)
+* [5. Identify conversational AI workloads](#5-identify-conversational-ai-workloads)
 
 ## Identify guiding principles for responsible AI
 * describe considerations for fairness in an AI solution
@@ -15,7 +15,7 @@
 * describe considerations for transparency in an AI solution
 * describe considerations for accountability in an AI solution
 
-### Identify prediction forecasting workloads:
+### 1. Identify prediction forecasting workloads:
 Predicting whether an airplane arrives early, on-time or late. A ML model analyzes patterns in the data: Departure time, weather conditions, air-traffic volumes and associates historical patterns to predict or forecast the possible outcome.
 
 Predicting whether a customer would buy certain items based on their purchase history. ML model analyzes patterns in the previous purchase history to predict the likelihood of a customer buying certain items.

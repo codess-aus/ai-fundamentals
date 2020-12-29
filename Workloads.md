@@ -79,7 +79,7 @@ Detecting spam in emails. Analyzes text in email to determine if it contains a s
 
 Language translation (Speech services)
 
-# Identify conversational AI workloads: 
+# 5. Identify conversational AI workloads: 
 Providing answers to a customer in a chatbot dialog. A chatbot backend processes input for a customer and sends back answers based on a knowledge base.
 
 Chatbot answers common customer questions.

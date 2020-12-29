@@ -164,7 +164,7 @@ Binning is a method used to segment data into groups of the same size. Binning i
 
 Substitution is a method used for replacing missing values in a dataset.
 
-Feature Hashing is used to tranform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
+Feature Hashing is used to transform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
 
 Data Ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training ML models. Raw data may come in different formats so extracting and converting it into supported format is a critical prep task in the ML models training process.
 
@@ -180,9 +180,10 @@ Feature selection is the process of selecting a subset of relevant features(vari
 
 Feature Engineering is used to increase the predictive power of a ML model.
 
-Feature engineering is the process of creating new features from raw data to increase the predictive power of the ML model. Engineered Features capture additional information that is not available in the original feature set. Examples of Feature Engineering are aggregating data, calculating a moving average and calculating the difference over time.
+Feature engineering is the process of creating new features from raw data to increase the predictive power of the ML model. Engineered Features capture additional information that is not available in the original feature set. Examples of Feature Engineering are aggregating data, calculating a moving average and calculating the difference over time. Features are selected and created before a model is trained and do not assist in the measurement of a models accuracy.
 
 Feature Selection is the process of selecting a subset of relevant features to use when building and training the model. Feature selection restricts the data to the most valuable inputs, reducing noise and improving training performance.
+
 
 ### 10. describe common features of model training and evaluation
 
@@ -201,6 +202,8 @@ After Training a Model, but Prior to Deploying it as a Web Service you should Cr
 If the model has low training error and high accuracy but after you deploy it you see a high error rate when predicting new values you should cross-validate the model. Low Training Error with high Testing Error is known as Overfitting. Overfitting means that the model does not generalise well from training data to unseen data, especially for that data that is different from the training data. Common causes are bias in the training data or too many features, meaning that the model cannot distinguish between the signal and the noise.
 
 Cross-Validation - a dataset can be repeatedly split into a training dataset and a validation dataset. Each split is used to train and test the model. Cross-validation evaluates both the dataset and the model, and it provides an idea of how representative the dataset is and how sensitive the model is to variations in input data.
+
+Score the Model to measure the accuracy of a trained machine learning model. After a model has ben trained, the model should be evaluate using a different set of data. Scoring applies new data to the trained model to generate predictions that can be evaluated using metrics that measure how accurate the predictions of the model are.
 
 ### 11. describe common features of model deployment and management
 

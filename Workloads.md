@@ -1,11 +1,11 @@
 # Describe Artificial Intelligence workloads and considerations (15-20%)
 
 ## Identify features of common AI workloads
-* [Identify prediction/forecasting workloads](#forecasting)
-* [Identify features of anomaly detection workloads](#anomaly)
-* [Identify computer vision workloads](#computer-vision)
-* [Identify natural language processing or knowledge mining workloads](#nlp)
-* [Identify conversational AI workloads](#conversational)
+* [Identify prediction/forecasting workloads](###forecasting)
+* [Identify features of anomaly detection workloads](###anomaly)
+* [Identify computer vision workloads](###computer-vision)
+* [Identify natural language processing or knowledge mining workloads](###nlp)
+* [Identify conversational AI workloads](###conversational)
 
 ## Identify guiding principles for responsible AI
 * describe considerations for fairness in an AI solution

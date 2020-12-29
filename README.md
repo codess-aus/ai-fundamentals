@@ -84,6 +84,8 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 ## Describe fundamental principles of machine learning on Azure (30-35%)
 
+[Click here for My Notes on AI Principles](https://github.com/msandfor/ai-fundamentals/blob/main/principles.md)
+
 | Resource | Topic | Step |   
 |------|--------|------------------|
 | [Regression modules](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/machine-learning-initialize-model-regression) | Identify common machine learning types | Notes |   

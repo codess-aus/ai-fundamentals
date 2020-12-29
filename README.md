@@ -378,8 +378,8 @@ Azure Bot Service. This service provides a framework for developing, publishing,
 | [Use a Microsoft Bot Framework bot with Power Virtual Agents](https://docs.microsoft.com/en-us/power-virtual-agents/advanced-use-dispatcher) | Topic | use the Microsoft Bot Framework dispatcher tool to integrate an existing bot with a Power Virtual Agents bot |
 | [Plan your QnA Maker app](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/plan?tabs=v1) | Topic | A single QnA Maker resource can host more than one knowledge base |   
 | [Question and answer pair concepts](https://docs.microsoft.com/en-us/azure/cognitive-services/QnAMaker/concepts/question-answer-set) | Topic | A knowledge base consists of question and answer (QnA) pairs. Each pair has one answer and a pair contains all the information associated with that answer |
-| []() | Topic | Step |   
-| []() | Topic | Step |
+| [What is Form Recognizer?](https://docs.microsoft.com/en-us/azure/cognitive-services/form-recognizer/overview?tabs=v2-0) | Topic | a cognitive service that lets you build automated data processing software using machine learning technology. Identify and extract text, key/value pairs, selection marks, tables, and structure from your documents—the service outputs structured data that includes the relationships in the original file, bounding boxes, confidence and more |   
+| [What is Speaker Recognition (Preview)?](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/speaker-recognition-overview) | Topic | service provides algorithms that verify and identify speakers by their unique voice characteristics using voice biometry. Speaker Recognition is used to answer the question “who is speaking?” |
 | []() | Topic | Step |   
 | []() | Topic | Step |
 | []() | Topic | Step |   

@@ -53,13 +53,6 @@ Supervised Learning - each data point is either labelled or associated with a ca
 
 Regression does not provide mutually exclusive approve or reject answers.
 
-Metrics: MAE - Mean absolute error. How close prediction is to actual outcome. The lower the score, the better.
-
-Metrics: R2 - Coefficient of Determination (1 is perfect, 0 is random)
-
-Metrics: RMSE - Root mean squared error
-
-
 ### 2. Identify classification machine learning scenarios
 Example: Check whether newly arrived emails contain spam.
 Example: Analyzing X-Ray images to detect whether a person has pneumonia.
@@ -91,20 +84,67 @@ K-means
 
 Unsupervised Learning. The Data is not labelled. An Unsupervised learning algorithm aims to determine the structure of the data itself.
 
-Metrics: Average distance to cluster center
-
-Metrics: Number of Points
-
 
 ### 4. Identify features and labels in a dataset for machine learning
+Example: Sepal length column is a feature column.
+Example: Flower species column is a label column.
+Example: Income column is a label column, Age and Height are Features - where the ML model predicts a persons income based on their height and age.
+
+A learning model learns the relationships between features and the label. You can use model to predict the label based on it's features.
+
+Features are the descriptive attributes used to train classification models to predict a class or category of the outcome.
+
+Labels are the outcomes that the model needs to predict or forecast.
+
+A hyperparameter is used to tune the ML model. For example, the number of runs or the sampling method. Columns in a dataset are not hyperparameters.
 
 ### 5. Describe how training and validation datasets are used in machine learning
 
+The Validation and the Training Datasets are used to Build the ML Model.
+
+The Training Dataset is not held back, it is actively used to train the model. It is the largest sample of data used when creating an ML model.
+
+The Validation Dataset is a sample of data held back from the training of the ML model. It helps to get an unbiased evaluation of the model while tuning its hyperparameters. It is used after the Training but before final testing. It is used to verify that the model can correctly predict or classify using data it has not seen before. It is used to tune the model.
+
+The Testing Dataset is used in the testing of the final model fit on the training dataset. Provides the final unbiased evaluation of the model. It is an independant sample of data and is used once a model has been completely trained with the Training and Validation datasets.
+
+Azure Open Datasets are curated datasets made available on azure that you can import into your ML model.
+
 ### 6. Describe how machine learning algorithms are used for model training
+
+An ML algorithm discovers patterns in data when a model is trained.
+
+An ML algorithm finds patterns in the training data that map the input data features to the label that you want to predict. The algorithm outputs an ML model that captures these patterns.
+
+For a Classification Algorithm that iterates over the whole dataset during the training process, you can control the number of times by adjusting the EPOCH setting. This setting indicates how many Epochs (iterations through the entire dataset) the ML model should be trained on.
+
+The Batch Size Setting indicates the number of training examples used in one iteration. The smaller the batch size the higher the number of parameter updates were epoch.
+
+The Learning Rate setting is a tuning setting for an optimization algorithm that controls how much you need to change the model in response to the estimated error each time the models weights are updated.
+
+The Random Seed Setting is an integer value that helps to ensure reproducibility of the experiment across multiple runs in the same pipeline.
 
 ### 7. Select and interpret model evaluation metrics for classification and regression
 
+AUC value of 0.4 means that the model is performing worse than a random guess. AUC values range between 0 and 1. The higher the value the better the performance of the classification model. A value of 0.5 indicates prediction is close to a random guess.
+
+Regression Metrics: MAE - Mean absolute error. How close prediction is to actual outcome. The lower the score, the better.
+
+Metrics: R2 - Coefficient of Determination (1 is perfect, 0 is random)
+
+Metrics: RMSE - Root mean squared error
+
+Classification Metrics: Precision is the proportion of true results over all positive results.
+
+Classification Metrics: Recall is the fraction of all correct results returned by the model
+
+Clustering Metrics: Average distance to cluster center
+
+Clustering Metrics: Number of Points
+
 ### 8. describe common features of data ingestion and preparation
+
+You split data as part of the data transformation process, where certain part of the data is allocated to train ML model and another part to test it.
 
 ### 9. describe common features of feature selection and engineering
 

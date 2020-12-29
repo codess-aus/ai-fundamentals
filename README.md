@@ -49,6 +49,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 
 ## Describe Artificial Intelligence workloads and considerations (15-20%)
+[My notes on this topic](https://github.com/msandfor/ai-fundamentals/blob/main/Workloads.md)
 
 | Resource | Topic | Notes |   
 |------|--------|------------------|

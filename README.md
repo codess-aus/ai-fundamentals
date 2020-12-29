@@ -392,3 +392,6 @@ Azure Bot Service. This service provides a framework for developing, publishing,
 | [Install Bot Framework Composer](https://docs.microsoft.com/en-us/composer/install-composer) | Topic | Step |   
 | [Create your first bot](https://docs.microsoft.com/en-us/composer/quickstart-create-bot) | Topic | Step |
 | [Publish a bot](https://docs.microsoft.com/en-us/composer/how-to-publish-bot) | Topic | Step |   
+
+If you liked this repo, give it a :star: and head over to:
+[AI-100: Designing and Implementing an Azure AI Solution Study Notes](https://github.com/msandfor/AI-100/blob/main/README.md)

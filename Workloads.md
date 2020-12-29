@@ -2,9 +2,9 @@
 
 ## Identify features of common AI workloads
 * [1. Identify prediction forecasting workloads](#1-identify-prediction-forecasting-workloads)
-* [Identify features of anomaly detection workloads](#identify-features-of-anomaly-detection-workloads)
-* [Identify computer vision workloads](#identify-computer-vision-workloads)
-* [Identify natural language processing or knowledge mining workloads](#identify-natural-language-processing-or-knowledge-mining-workloads)
+* [2. Identify features of anomaly detection workloads](#2-identify-features-of-anomaly-detection-workloads)
+* [3. Identify computer vision workloads](#3-identify-computer-vision-workloads)
+* [4. Identify natural language processing or knowledge mining workloads](#4-identify-natural-language-processing-or-knowledge-mining-workloads)
 * [5. Identify conversational AI workloads](#5-identify-conversational-ai-workloads)
 
 ## Identify guiding principles for responsible AI
@@ -26,7 +26,7 @@ Determining the likely repair costs for an accident involving a vehicle. An ML m
 
 Uses historical data to predict or forecast an outcome based on the data input into the model
 
-### Identify features of anomaly detection workloads:
+### 2. Identify features of anomaly detection workloads:
 AD is the process of using ML to find unexpected values or events. Analyzes time series data to determine the boundaries of expected values and detect abnormalities that differ from the expected norm.
 
 Anomalies can be detected by AI as they occur in real-time. The ML model can derive the possible boundaries of the norm from previously seen data and then determine whether the latest data point in the time series is an anomaly or not.
@@ -43,7 +43,7 @@ Discovering financial system fraud.
 
 Detecting a change in hospital infection rates.
 
-### Identify computer vision workloads:
+### 3. Identify computer vision workloads:
 Detecting predestrians in the real-time video stream of an autonomous vehicle. Returns bounding box coordinates for pedestrians.
 
 Detecting whether people in on-line posted images are celebrities. An ML model training with domain specific content, for example, celebrities, can determine if they are among the people detected in the online-posted images.
@@ -62,7 +62,7 @@ Interpret the contents of the image and classify it, detect objects in it and an
 
 Detecting abnormalities in health scans. Computer vision interprets and classifies images. The custom vision service can be used to train a model with images of scans, some of which have abnormalities and some of which do not. CV can then classify new images with a score between 0 and 1 according to the probability of having abnormalities, where 1 indicates the highest probability.
 
-### Identify natural language processing or knowledge mining workloads:
+### 4. Identify natural language processing or knowledge mining workloads:
 Detecting the language in the provided text document. The ML model evaluates the text input and returns the language with a score between 0 and 1 to reflect it's confidence.
 
 Analyzing customer feedback on an ecommerce website to determine whether it is positive or negative. An ML model evaluates the content of the provided feedback and returns sentiment labels and confidence scores for each sentence and overall content.

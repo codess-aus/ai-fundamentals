@@ -1,11 +1,11 @@
 # Describe Artificial Intelligence workloads and considerations (15-20%)
 
 ## Identify features of common AI workloads
-* identify prediction/forecasting workloads
-* identify features of anomaly detection workloads
-* identify computer vision workloads
-* identify natural language processing or knowledge mining workloads
-* identify conversational AI workloads
+* [Identify prediction/forecasting workloads](forecasting)
+* [Identify features of anomaly detection workloads](anomaly)
+* [Identify computer vision workloads](computer-vision)
+* [Identify natural language processing or knowledge mining workloads](nlp)
+* [Identify conversational AI workloads](conversational)
 
 ## Identify guiding principles for responsible AI
 * describe considerations for fairness in an AI solution
@@ -15,7 +15,7 @@
 * describe considerations for transparency in an AI solution
 * describe considerations for accountability in an AI solution
 
-### Example of a Forecasting AI Workload:
+### Identify prediction/forecasting workloads:
 Predicting whether an airplane arrives early, on-time or late. A ML model analyzes patterns in the data: Departure time, weather conditions, air-traffic volumes and associates historical patterns to predict or forecast the possible outcome.
 
 Predicting whether a customer would buy certain items based on their purchase history. ML model analyzes patterns in the previous purchase history to predict the likelihood of a customer buying certain items.
@@ -26,7 +26,7 @@ Determining the likely repair costs for an accident involving a vehicle. An ML m
 
 Uses historical data to predict or forecast an outcome based on the data input into the model
 
-### Example of Anomaly Detection:
+### Identify features of anomaly detection workloads:
 AD is the process of using ML to find unexpected values or events. Analyzes time series data to determine the boundaries of expected values and detect abnormalities that differ from the expected norm.
 
 Anomalies can be detected by AI as they occur in real-time. The ML model can derive the possible boundaries of the norm from previously seen data and then determine whether the latest data point in the time series is an anomaly or not.
@@ -43,7 +43,7 @@ Discovering financial system fraud.
 
 Detecting a change in hospital infection rates.
 
-### Example of a Computer Vision Workload:
+### Identify computer vision workloads:
 Detecting predestrians in the real-time video stream of an autonomous vehicle. Returns bounding box coordinates for pedestrians.
 
 Detecting whether people in on-line posted images are celebrities. An ML model training with domain specific content, for example, celebrities, can determine if they are among the people detected in the online-posted images.
@@ -62,7 +62,7 @@ Interpret the contents of the image and classify it, detect objects in it and an
 
 Detecting abnormalities in health scans. Computer vision interprets and classifies images. The custom vision service can be used to train a model with images of scans, some of which have abnormalities and some of which do not. CV can then classify new images with a score between 0 and 1 according to the probability of having abnormalities, where 1 indicates the highest probability.
 
-### Example of NLP Workload:
+### Identify natural language processing or knowledge mining workloads:
 Detecting the language in the provided text document. The ML model evaluates the text input and returns the language with a score between 0 and 1 to reflect it's confidence.
 
 Analyzing customer feedback on an ecommerce website to determine whether it is positive or negative. An ML model evaluates the content of the provided feedback and returns sentiment labels and confidence scores for each sentence and overall content.
@@ -79,7 +79,7 @@ Detecting spam in emails. Analyzes text in email to determine if it contains a s
 
 Language translation (Speech services)
 
-### Example of a Conversational AI Workload: 
+### Identify conversational AI workloads: 
 Providing answers to a customer in a chatbot dialog. A chatbot backend processes input for a customer and sends back answers based on a knowledge base.
 
 Chatbot answers common customer questions.

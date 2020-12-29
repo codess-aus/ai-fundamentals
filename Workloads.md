@@ -8,12 +8,12 @@
 * [5. Identify conversational AI workloads](#5-identify-conversational-ai-workloads)
 
 ## Identify guiding principles for responsible AI
-* [6. Describe considerations for fairness in an AI solution](6-describe-considerations-for-fairness-in-an-ai-solution)
-* [7. Describe considerations for reliability and safety in an AI solution](7-describe-considerations-for-reliability-and-safety-in-an-ai-solution)
-* [8. Describe considerations for privacy and security in an AI solution](8-describe-considerations-for-privacy-and-security-in-an-ai-solution)
-* [9. Describe considerations for inclusiveness in an AI solution](9-describe-considerations-for-inclusiveness-in-an-ai-solution)
-* [10. Describe considerations for transparency in an AI solution](10-describe-considerations-for-transparency-in-an-ai-solution)
-* [11. Describe considerations for accountability in an AI solution](11-describe-considerations-for-accountability-in-an-ai-solution)
+* [6. Describe considerations for fairness in an AI solution](#6-Describe-considerations-for-fairness-in-an-AI-solution)
+* [7. Describe considerations for reliability and safety in an AI solution](#7-describe-considerations-for-reliability-and-safety-in-an-ai-solution)
+* [8. Describe considerations for privacy and security in an AI solution](#8-describe-considerations-for-privacy-and-security-in-an-ai-solution)
+* [9. Describe considerations for inclusiveness in an AI solution](#9-describe-considerations-for-inclusiveness-in-an-ai-solution)
+* [10. Describe considerations for transparency in an AI solution](#10-describe-considerations-for-transparency-in-an-ai-solution)
+* [11. Describe considerations for accountability in an AI solution](#11-describe-considerations-for-accountability-in-an-ai-solution)
 
 ### 1. Identify prediction forecasting workloads:
 Predicting whether an airplane arrives early, on-time or late. A ML model analyzes patterns in the data: Departure time, weather conditions, air-traffic volumes and associates historical patterns to predict or forecast the possible outcome.

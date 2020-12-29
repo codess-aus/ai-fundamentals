@@ -160,6 +160,10 @@ Splitting is a method that is useful for dividing the dataset into training and 
 
 Normalization is a technique used in the data preparation. You transform the values of numeric columns to use a common scale, for example between 0 and 1 without impacting the differences in the value anges or losing information itself.
 
+Binning is a method used to segment data into groups of the same size. Binning is used when the distribution of values in the data is skewed and transforms continuous numeric features into discrete features (categories).
+
+Substitution is a method used for replacing missing values in a dataset.
+
 Feature Hashing is used to tranform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
 
 Data Ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training ML models. Raw data may come in different formats so extracting and converting it into supported format is a critical prep task in the ML models training process.
@@ -195,6 +199,8 @@ Compute Clusters are used to train your model. You need to create an Inference C
 After Training a Model, but Prior to Deploying it as a Web Service you should Create an Inference Pipeline from the Training Pipeline. This pipeline performs the same steps for the new data input, not the sample data used in training. The new pipeline is an inference pipeline that will be used for predictions. You will publish the inference pipeline as a web service.
 
 If the model has low training error and high accuracy but after you deploy it you see a high error rate when predicting new values you should cross-validate the model. Low Training Error with high Testing Error is known as Overfitting. Overfitting means that the model does not generalise well from training data to unseen data, especially for that data that is different from the training data. Common causes are bias in the training data or too many features, meaning that the model cannot distinguish between the signal and the noise.
+
+Cross-Validation - a dataset can be repeatedly split into a training dataset and a validation dataset. Each split is used to train and test the model. Cross-validation evaluates both the dataset and the model, and it provides an idea of how representative the dataset is and how sensitive the model is to variations in input data.
 
 ### 11. describe common features of model deployment and management
 

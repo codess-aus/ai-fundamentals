@@ -19,6 +19,8 @@
 
 Example: Assessing the damage to a vehicle from a photograph. You train the model by uploading images of vehicles with differing levels of damage, and you label them with the class labels that you want to identify. The model will then be able to place any new image in one of the categories.
 
+Example: Quality control on a production line. Product labels and bottle caps can be verified to be correctly attached by using image classification against a set of trained images of correctly labelled and capped bottles.
+
 Example: Detecting colour scheme in a image. Colours are classified in an image as: the dominant foreground colour, the dominant background colour, and the accent colour.
 
 Image Classification is a ML model that predicts the category(class) that the contents of an image belong to. A set of images is used to train the model. The model can then be used to categorize a new image.
@@ -36,6 +38,10 @@ Object detection may be able to identify the make and model but would not be abl
 
 ### 3. Identify features of semantic segmentation solutions
 
+Example: Driving autonomous vehicles. 
+
+Semantic segmentation is used when an AI-based system needs to understand the context in which it operates.
+
 Semantic segmentation does pixel level classification of image content. As a part of the image processing, pixels which share specific characteristics, such as parts of tissue or bones on Xray images are assigned with the same labels to define the boundaries of the relevant body parts.
 
 ### 4. Identify features of optical character recognition solutions
@@ -45,10 +51,13 @@ Optical Character Recognition retrieves printed text from scanned documents. OCR
 ### 5. Identify features of facial detection, facial recognition, and facial analysis solutions
 
 Example: Identifying people in an image.
+Example: Customer engagement in retail
 
 Facial detection can identify human faces on an image, generate a rectangle for each detected face and provide additional details such as age and gender.
 
 ### 6. Identify capabilities of the Computer Vision service
+
+Recognition of famous people is a feature of the domain-specific content where thousands of images of celebrities have been added to the computer vision model.
 
 ### 7. Identify capabilities of the Custom Vision service
 

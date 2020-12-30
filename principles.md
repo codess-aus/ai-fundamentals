@@ -203,6 +203,9 @@ If the model has low training error and high accuracy but after you deploy it yo
 
 Cross-Validation - a dataset can be repeatedly split into a training dataset and a validation dataset. Each split is used to train and test the model. Cross-validation evaluates both the dataset and the model, and it provides an idea of how representative the dataset is and how sensitive the model is to variations in input data.
 
+<p><img align="center" src="https://github.com/msandfor/ai-fundamentals/blob/main/assets/pipeline.PNG" alt="Community photo"></p>
+<p align="center"></p>
+
 Score the Model to measure the accuracy of a trained machine learning model. After a model has ben trained, the model should be evaluate using a different set of data. Scoring applies new data to the trained model to generate predictions that can be evaluated using metrics that measure how accurate the predictions of the model are.
 
 The Add-Rows module combines two datasets together by appending the second dataset to the first. You would use this module in the Training Pipeline.
@@ -248,6 +251,9 @@ You can connect modules directly to each other. Modules have both input and outp
 Pipeline endpoint cannot be used to send and receive data in real time. Pipelines in Azure ML designer published to a pipeline endpoint can be used to train models, process new data etc. Data cannot be sent or received from a pipeline in real time, but is actioned asychronously. For real time interaction, such as to receive the models prediction results, a pipeline should be deployed as a real-time endpoint.
 
 A real-time inference pipeline must have at least one Web Service Input Module and one Web Service Output Module. The Web Service Input Module is normally the first step in the pipeline and replaces the dataset in the training pipeline. The Web Service Output module is normally the final step in the pipeline.
+
+<p><img align="center" src="https://github.com/msandfor/ai-fundamentals/blob/main/assets/prod.PNG" alt="Community photo"></p>
+<p align="center"></p>
 
 The Azure ML Studio supports both no-code and code-first experiences.
 

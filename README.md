@@ -280,6 +280,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 
 ## Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
+[Click here for My Notes on NLP workloads](https://github.com/msandfor/ai-fundamentals/blob/main/nlp.md)
 
 | Resource | Topic | Step |   
 |------|--------|------------------|
@@ -340,6 +341,9 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [What is machine translation?](https://www.microsoft.com/en-us/translator/business/machine-translation/) | Topic | Step |   
 
 ## Describe features of conversational AI workloads on Azure (15-20%)
+
+[Click here for My Notes on Conversational AI workloads](https://github.com/msandfor/ai-fundamentals/blob/main/conversational.md)
+
 | Resource | Topic | Step |   
 |------|--------|------------------|
 | [What are Cloud auto attendants?](https://docs.microsoft.com/en-us/microsoftteams/what-are-phone-system-auto-attendants) | Topic | Phone System provides auto attendants, which can be used to let external and internal callers move through a menu system to locate and place or transfer calls to users or departments in your organization |   

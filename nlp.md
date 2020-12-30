@@ -25,9 +25,13 @@ Key phrase extraction performs better on larger amounts of text. The more text y
 ### 2. Identify features and uses for entity recognition
 Example: Dates and times of day in a document
 Example: Passport number
+Example: Extracting brand information from a document
 Named entity recognition identifies entities in a provided test and categorizes them into predefined classes or types such as people, products, events etc. 
 
 ### 3. Identify features and uses for sentiment analysis
+Example: Analyze social media for a brand
+Example: Determine the emotion in a text statement
+
 Sentiment Analysis performs better on smaller amounts of text. Less words means less distractors for the sentiment analysis model, and for that reason, it produces a higher-quality result with smaller amounts of text. Give it some tweets.
 
 Sentiment Analysis returns sentiment labels and scores for the entire document.
@@ -41,17 +45,21 @@ Sentiment Analysis evaluates a provided text for detecting positive or negative 
 It can evaluate tweets as positive, neutral or negative.
 
 ### 4. Identify features and uses for language modeling
+Example: Discover the meaning in a text statement
 
-Language detection can evaluate text input to determine which language is used. It also returns a score that reflects the model's confidence in it's language prediction results.
+Language modeling can be performed in many languages but only one language at a time.
 
 ### 5. Identify features and uses for speech recognition and synthesis
 Example: Real-time transcription of podcast dialogs into text.
+Example: Convert audio to text
+Example: Detecting and interpreting spoken input is an example of speech recognition
+Example: Generating spoken output is an example of speech synthesis
 
 SSML is based on XML as per the WWWC standard. SSML lets you improve the quality of speech synthesis by fine-tuning the pitch, pronounciation, speaking rates and other parameters of the text-to-speech output.
 
-Speech synthesis can generate human-like synthesized speech based on input text. Speech synthesis is available in several languages and can be customised to adjust pitch, add pauses, improve pronounciation etc. by using speech synthesis markup language (SSML). 
+Speech synthesis can generate human-like synthesized speech based on input text. Speech synthesis is available in several languages and can be customised to adjust pitch, add pauses, improve pronounciation etc. by using speech synthesis markup language (SSML). Speech synthesis assigns phonetic sounds to each word
 
-Speech recognition recognises and transcribes human speech.
+Speech recognition recognises and transcribes human speech. It is the ability to detect and interpret spoken input and turn it into data so it can be processed as text. Speech is analyzed to find patterns that are mapped to words. An acoustic model is used to convert the audio stream into phonemes, which a representations of specific sounds and a language model maps these phonemes to words using statistical algorithms to predict the probable sequence of words.
 
 Converts text to speech for people with disabilities.
 
@@ -66,4 +74,11 @@ Speech translation provides real-time, multi-lingual translation of audio files 
 ### 9. Identify capabilities of the Speech service
 
 ### 10. Identify capabilities of the Translator Text service
+
+Translation is the conversion of either test or audio speech from one language to another
+
+
+
+
+Language detection can evaluate text input to determine which language is used. It also returns a score that reflects the model's confidence in it's language prediction results.
 

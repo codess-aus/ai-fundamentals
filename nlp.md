@@ -18,10 +18,13 @@ Azure (15-20%)
 
 ### 1. Identify features and uses for key phrase extraction
 Example: Identifies the main points in a set of blog posts
+Example: Creating tags of popular mentions in reviews on a website
 
 Key phrase extraction performs better on larger amounts of text. The more text you provide, the better it will do. Give it an essay.
 
 ### 2. Identify features and uses for entity recognition
+Example: Dates and times of day in a document
+Example: Passport number
 Named entity recognition identifies entities in a provided test and categorizes them into predefined classes or types such as people, products, events etc. 
 
 ### 3. Identify features and uses for sentiment analysis
@@ -35,14 +38,22 @@ Confidence scores range from 0 to 1.
 
 Sentiment Analysis evaluates a provided text for detecting positive or negative sentiments. It then returns sentiment labels and confidence scores, which range from 0 to 1, at the sentence and document levels. While it can detect sentiment in blog posts it cannot identify the main points in them.
 
+It can evaluate tweets as positive, neutral or negative.
+
 ### 4. Identify features and uses for language modeling
 
+Language detection can evaluate text input to determine which language is used. It also returns a score that reflects the model's confidence in it's language prediction results.
+
 ### 5. Identify features and uses for speech recognition and synthesis
+Example: Real-time transcription of podcast dialogs into text.
+
 SSML is based on XML as per the WWWC standard. SSML lets you improve the quality of speech synthesis by fine-tuning the pitch, pronounciation, speaking rates and other parameters of the text-to-speech output.
 
 Speech synthesis can generate human-like synthesized speech based on input text. Speech synthesis is available in several languages and can be customised to adjust pitch, add pauses, improve pronounciation etc. by using speech synthesis markup language (SSML). 
 
 Speech recognition recognises and transcribes human speech.
+
+Converts text to speech for people with disabilities.
 
 ### 6. Identify features and uses for translation
 

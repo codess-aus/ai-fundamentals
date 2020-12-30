@@ -9,10 +9,10 @@
 * [5. Identify features of facial detection, facial recognition, and facial analysis solutions](#5-identify-features-of-facial-detection-facial-recognition-and-facial-analysis-solutions)
 
 ## Identify Azure tools and services for computer vision tasks
-* [6. Identify capabilities of the Computer Vision service](#1-identify-capabilities-of-the-computer-vision-service)
-* [7. Identify capabilities of the Custom Vision service](#2-identify-capabilities-of-the-custom-vision-service)
-* [8. Identify capabilities of the Face service](#3-identify-capabilities-of-the-Face-service)
-* [9. Identify capabilities of the Form Recognizer service](#4-identify-capabilities-of-the-Form-Recognizer-service)
+* [6. Identify capabilities of the Computer Vision service](#6-identify-capabilities-of-the-computer-vision-service)
+* [7. Identify capabilities of the Custom Vision service](#7-identify-capabilities-of-the-custom-vision-service)
+* [8. Identify capabilities of the Face service](#8-identify-capabilities-of-the-Face-service)
+* [9. Identify capabilities of the Form Recognizer service](#9-identify-capabilities-of-the-Form-Recognizer-service)
 
 
 ### 1. Identify features of image classification solutions

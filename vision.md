@@ -23,10 +23,18 @@ Example: Quality control on a production line. Product labels and bottle caps ca
 
 Example: Detecting colour scheme in a image. Colours are classified in an image as: the dominant foreground colour, the dominant background colour, and the accent colour.
 
+Example: Identifying products on a warehouse shelf.
+
+Example: Perform medical diagnosis on MRI scans.
+
 Image Classification is a ML model that predicts the category(class) that the contents of an image belong to. A set of images is used to train the model. The model can then be used to categorize a new image.
 
 
 ### 2. Identify features of object detection solutions
+
+Example: Evaluating compliance with building safety regulations
+Example: Find people wearing masks in a room.
+Example: Returning bounding box coordinates for all identified people on a picture.
 
 You should use Object Detection for returning bounding box coordinates for all identified animals on a photo. OD can process the image to identify various animals such as cats and dogs and return their coordinates.
 
@@ -46,14 +54,22 @@ Semantic segmentation does pixel level classification of image content. As a par
 
 ### 4. Identify features of optical character recognition solutions
 
+Example: Processing and validating invoices
+Example: Handwritten text from a students essay
+
 Optical Character Recognition retrieves printed text from scanned documents. OCR is a process of extracting printed or handwritten text from the input images or PDF documents.
 
 ### 5. Identify features of facial detection, facial recognition, and facial analysis solutions
 
 Example: Identifying people in an image.
 Example: Customer engagement in retail
+Example: Validating identity for access to business premises
+Example: confirm a driver is looking at the road.
+Example: Identify human faces on a security cameras video stream.
 
-Facial detection can identify human faces on an image, generate a rectangle for each detected face and provide additional details such as age and gender.
+Facial detection can identify human faces on an image, generate a rectangle for each detected face and provide additional details such as age and gender, if they are wearing glasses, emotion.
+
+
 
 ### 6. Identify capabilities of the Computer Vision service
 

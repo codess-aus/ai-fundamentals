@@ -230,7 +230,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 | [Evaluate Model module](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/evaluate-model) | topic | Notes | 
 
 ## Describe features of computer vision workloads on Azure (15-20%)
-
+[Click here for My Notes on Computer Vision](https://github.com/msandfor/ai-fundamentals/blob/main/vision.md)
 | Resource | Topic | Step |   
 |------|--------|------------------|
 | [What is Computer Vision?](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/overview) | Topic | Step |   

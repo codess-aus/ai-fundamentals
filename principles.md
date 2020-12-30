@@ -205,13 +205,53 @@ Cross-Validation - a dataset can be repeatedly split into a training dataset and
 
 Score the Model to measure the accuracy of a trained machine learning model. After a model has ben trained, the model should be evaluate using a different set of data. Scoring applies new data to the trained model to generate predictions that can be evaluated using metrics that measure how accurate the predictions of the model are.
 
+The Add-Rows module combines two datasets together by appending the second dataset to the first. You would use this module in the Training Pipeline.
+
 ### 11. describe common features of model deployment and management
 
 You can deploy a ML model as a web service to Azure Container Instances (ACI) and Azure Kubernetes Service (AKS). Both are supported as the compute targets for the containerized model deployments. ACI offers the fastest and simplest way to run isolated containers, while AKS provides full container orchestration, including autoscaling, coordinated application upgrases and service discovery across multiple containers.
 
+A compute instance is a configured development environment for ML. A Compute Instance is used as a compute target for authoring and training models for development and testing purposes.
+
+ACI - Azure Container Instances are used to run a prediction model as a web service in testing and debugging scenarios.
+
+AKS cluster is used to run highly scaleable real-time inferences as a web service.
+
+A compute cluster is used to train models with Azure ML Designer and for running batch interference on large amounts of data.
+
 ### 12. automated Machine Learning UI
+
+Automated machine learning is the process in which the best machine learning algorithm to use for your specific data is selected for you.
+
+In order to ensure automated ML follows the Transparency Principle of Responsible AI you should configure the Enable Explain Best Model Option. The explanation allows you to understand why the model was selected and how the model works. It enables you to meet regulatory requirements and provides transparency to users.
+
+Tabular and File Datasets are the data source types supoorted in Azure AutoML. CSV, TSV, Parquet, JSON or SQL.
+
+Automated ML can train and tune a classification model.
+
+AutoML can train and tune a regression model.
 
 ### 13. azure Machine Learning designer
 
+You cannot connect datasets directly to each other. Like data sources, datasets have only output ports and thus can only connect t modules not other datasets. However, modules can be used to combine data from various datasets.
 
-39/53
+The Normalise data module adjusts the values in the numeric columns so that all numeric columns are on a similar scale, between 0 and 1. A dataset that has features in different scales can bias the model towards that feature. To mitigate bias in the model you transform the numeric features to use the same scale.
+
+The Clean Missing Data module removes, replaces or infers missing values in the dataset. It can also remove empty rows. Missing data can limit the accuracy and effectiveness of predictions. Clean missing data does not adjust the scale of the data.
+
+The Clip Values module replaces data values that are above or below a specified threshold. Clip Values is usually used to remove anomalies or outliers in the data. Clip Values does not adjust the scale of the data.
+
+Select columns in the dataset removes columns and creates a smaller dataset.
+
+You can connect modules directly to each other. Modules have both input and output ports and can connect to either datasets or other modules.
+
+Pipeline endpoint cannot be used to send and receive data in real time. Pipelines in Azure ML designer published to a pipeline endpoint can be used to train models, process new data etc. Data cannot be sent or received from a pipeline in real time, but is actioned asychronously. For real time interaction, such as to receive the models prediction results, a pipeline should be deployed as a real-time endpoint.
+
+A real-time inference pipeline must have at least one Web Service Input Module and one Web Service Output Module. The Web Service Input Module is normally the first step in the pipeline and replaces the dataset in the training pipeline. The Web Service Output module is normally the final step in the pipeline.
+
+The Azure ML Studio supports both no-code and code-first experiences.
+
+The Azure ML Studio can create and run Jupyter notebooks.
+
+The Azure ML Studio does not support the use of C# or .Net. You can use Visual Studio or VSCode to create a model in C# using the ML.NET SDK.
+

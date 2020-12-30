@@ -212,3 +212,6 @@ You can deploy a ML model as a web service to Azure Container Instances (ACI) an
 ### 12. automated Machine Learning UI
 
 ### 13. azure Machine Learning designer
+
+
+39/53

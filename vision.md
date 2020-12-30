@@ -17,13 +17,36 @@
 
 ### 1. Identify features of image classification solutions
 
+Example: Assessing the damage to a vehicle from a photograph. You train the model by uploading images of vehicles with differing levels of damage, and you label them with the class labels that you want to identify. The model will then be able to place any new image in one of the categories.
+
+Example: Detecting colour scheme in a image. Colours are classified in an image as: the dominant foreground colour, the dominant background colour, and the accent colour.
+
+Image Classification is a ML model that predicts the category(class) that the contents of an image belong to. A set of images is used to train the model. The model can then be used to categorize a new image.
+
+
 ### 2. Identify features of object detection solutions
+
+You should use Object Detection for returning bounding box coordinates for all identified animals on a photo. OD can process the image to identify various animals such as cats and dogs and return their coordinates.
+
+Identifies and tags individual visual features (objects) in a model. Object detection can recognise many different types of objects. Azure computer vision is trained in more than 80 categories.
+
+Object detection will also return the coordinates for a box surrounding a tagged visual feature (object). Object detection is similar to image classification, but object detection also returns the location of a tagged object.
+
+Object detection may be able to identify the make and model but would not be able to assess damage.
 
 ### 3. Identify features of semantic segmentation solutions
 
+Semantic segmentation does pixel level classification of image content. As a part of the image processing, pixels which share specific characteristics, such as parts of tissue or bones on Xray images are assigned with the same labels to define the boundaries of the relevant body parts.
+
 ### 4. Identify features of optical character recognition solutions
 
+Optical Character Recognition retrieves printed text from scanned documents. OCR is a process of extracting printed or handwritten text from the input images or PDF documents.
+
 ### 5. Identify features of facial detection, facial recognition, and facial analysis solutions
+
+Example: Identifying people in an image.
+
+Facial detection can identify human faces on an image, generate a rectangle for each detected face and provide additional details such as age and gender.
 
 ### 6. Identify capabilities of the Computer Vision service
 

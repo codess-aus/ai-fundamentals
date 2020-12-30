@@ -29,12 +29,14 @@ Example: Perform medical diagnosis on MRI scans.
 
 Image Classification is a ML model that predicts the category(class) that the contents of an image belong to. A set of images is used to train the model. The model can then be used to categorize a new image.
 
+Image classification is a process of applying class or category labels to images according to their visual characteristics.
 
 ### 2. Identify features of object detection solutions
 
 Example: Evaluating compliance with building safety regulations
 Example: Find people wearing masks in a room.
 Example: Returning bounding box coordinates for all identified people on a picture.
+Example: Tracking seasonal migration of animals from drone camera images.
 
 You should use Object Detection for returning bounding box coordinates for all identified animals on a photo. OD can process the image to identify various animals such as cats and dogs and return their coordinates.
 
@@ -56,8 +58,11 @@ Semantic segmentation does pixel level classification of image content. As a par
 
 Example: Processing and validating invoices
 Example: Handwritten text from a students essay
+Example: Extracting handwritten text from scanned copies of cheques.
 
 Optical Character Recognition retrieves printed text from scanned documents. OCR is a process of extracting printed or handwritten text from the input images or PDF documents.
+
+The OCR can only extract simple text strings. Use the form recogniser to visualise data in a table like format.
 
 ### 5. Identify features of facial detection, facial recognition, and facial analysis solutions
 
@@ -75,8 +80,50 @@ Facial detection can identify human faces on an image, generate a rectangle for 
 
 Recognition of famous people is a feature of the domain-specific content where thousands of images of celebrities have been added to the computer vision model.
 
+The computer vision service can moderate adult content. There is a separate Content Moderator service that provides additional functionality and review processes.
+
+Commercial brand identification in social media posts.
+
+It can extract but not translate text.
+
+Can identify landmarks from an image.
+
+Identify dominant colours in online images.
+
+Can detect human faces and predict age and gender. Face Service can be used for a more detailed analysis: identify head pose, estimate gender, age and emotion, detect presence of facial hair or glasses and evaluate if two faces belong to the same person.
+
+Azure cognitive service with a rich set of image processing functionalities to detect objects, brands or faces, describe image content, generate thumbnails etc.
+
 ### 7. Identify capabilities of the Custom Vision service
+
+Supports 2 Project Types: Classification and Object Detection. You can specify labels to be applied to the image as tags and return them as bounded boxes.
+
+Allows you to specify labels for an image.
+
+Let's you build and deploy image classifier trained on your custom set of images and labels such as butterflies.
 
 ### 8. Identify capabilities of the Face service
 
+Can detect the angle a head is posed at. Detect head gestures in real time.
+
+The Verify Option takes a face and determines if it belongs to the same person as another face (twins). You need to detect face(s) in an image using the Detect API. The Verify option can then compare the two faces.
+
+The Find Similar operation takes a face you have detected and extracts faces that look alike from a list of faces that you provide. Find Similar returns a subset of the faces in that list.
+
+The Group operation creates several smaller groups from a list of faces based on the similarities of the faces. 
+
+The Identify operation takes one or more faces and matches them to people. It returns a list of possible matches with a confidence score between 0 and 1.
+
+Face Service can be used for a more detailed analysis: identify head pose, estimate gender, age and emotion, detect presence of facial hair or glasses and evaluate if two faces belong to the same person.
+
 ### 9. Identify capabilities of the Form Recognizer service
+
+Example: Automate data extraction from scanned copies of sales receipts minimizing development efforts.
+Example: prebuilt business card model can extract info from business cards in English.
+
+Prebuilt models are english only at this time.
+Custom model - spanish, chinese, dutch, french, german, italian and portuguese.
+
+The Form Recognizer API extracts data from a document and provides a GUI to visulaize the data in a table-like format.
+
+The Form Recognizer extracts text, key/value pairs, and table data from documents.

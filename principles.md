@@ -1,18 +1,6 @@
 # Describe fundamental principles of machine learning on Azure (30-
 35%)
 
-
-
-Identify core tasks in creating a machine learning solution
- describe common features of data ingestion and preparation
- describe common features of feature selection and engineering
- describe common features of model training and evaluation
- describe common features of model deployment and management
-
-Describe capabilities of no-code machine learning with Azure Machine Learning:
- automated Machine Learning UI
- azure Machine Learning designer
-
 ## Identify common machine learning types
 * [1. Identify regression machine learning scenarios](#1-identify-regression-machine-learning-scenarios)
 * [2. Identify classification machine learning scenarios](#2-identify-classification-machine-learning-scenarios)

@@ -66,6 +66,18 @@ App Service and Azure Cognitive Search are the Azure Resources created when a ne
 
 TSV files for chitchat personality uploads.
 
+It can use multiple knowledge bases.
+
+It only supports one language.
+
+It consists of question and answer pairs.
+
+Use QnA Maker for authoring and query prediction. It provides access to the authoring and publishing APIs of the QnA Maker service. It also uses NLP capabilities to learn about the specifics of questions in the KB and predict at runtime witch QnA pair matches as the best answer.
+
+You should use Application Insights to query prediction telemetry. It can collect the chatbots logs and telemetry. It can diagnose potential issues and process telemetry data with KQL.
+
+Cognitive Search for data storage and search. It stores the QnA pairs and maintains indexes for all published KBs.
+
 ### 6. Identify capabilities of the Bot Framework
 
 The Bot Framework SDK is required to develop bots using code. There are SDKs for C#, JS, TS and Python. The Bot Framework SDK allows developers to send and receive messages with users on the configured channels.
@@ -75,3 +87,15 @@ The Azure Bot Framework Emulator is a desktop application that allows developers
 The Bot service framework CLI tools manage bots and related services and are used in the DevOps pipelines when deploying bots in enterprises.
 
 The Bot Framework Composer is a tool to build bots without Code. The Bot Framework Composer uses a visual user interface to create diaslogs and bot logic.
+
+The Azure Bot Framework separates the logic of the bot from the communication with different apps and platforms. When you create a bot, the bot is available for webchat. You can add additional channels to make the bot available for other platforms like facebook, email, Teams, Slack etc.
+
+The Azure Bot can both consume other bots and be consumed itself by another bot. A skill is a a bot that performs tasks for another bot. You add a skill when you want to reuse or extend a bot.
+
+An Azure bot communicates by receiving and sending messages. A turn handles the received message and sends a message back to the users. You add new turns when you want to handle different messages.
+
+You can add LUIS to your bot when you create it or later. You use the Dispatch tool to route messages from the bot to LUIS.
+
+You can integrate QnA Maker knowledge bases. You use the Dispatch tool to route messages from the bot to QnA Maker. Your bot can choose which has the best response for the user.
+
+You can integrate bots created using Power Virtual Agents. You can use the Dispatch tool to configure your bot to work with a Power Virtual Agent Bot.

@@ -67,6 +67,8 @@ Converts text to speech for people with disabilities.
 
 Speech translation provides real-time, multi-lingual translation of audio files or streams.
 
+Translation is the conversion of either text or audio speech from one language to another.
+
 ### 7. Identify capabilities of the Text Analytics service
 
 ### 8. Identify capabilities of the Language Understanding Intelligence Service (LUIS)

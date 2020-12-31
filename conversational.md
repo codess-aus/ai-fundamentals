@@ -53,6 +53,22 @@ By default a PDA will respond in the same way it was queried i.e. it will respon
 
 ### 4. Identify common characteristics of conversational AI solutions
 
+LUIS determines a users intentions.
+QnA Maker uses a KB with QnA pairs to answer users questions.
+
+A skill is a bot.
+
+A skill manifest is a JSON file.
+
+Users can interact with a root bot.
+
+Web Chat is automatically configured when a bot is created with the Framework Bot Service.
+
+Composer is an open source solution.
+
+Composer is a visual authoring tools which allows bot development in a GUI.
+
+Composer can publish bots to Azure Web App and Azure Functions.
 
 ### 5. Identify capabilities of the QnA Maker service
 

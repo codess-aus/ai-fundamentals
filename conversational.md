@@ -56,6 +56,22 @@ By default a PDA will respond in the same way it was queried i.e. it will respon
 
 ### 5. Identify capabilities of the QnA Maker service
 
+You can natively populate a Q&A Maker from a PDF or word document or by manually adding question and answer pairs.
+
+It cannot use a SQL database (only files and URLs) as datasources.
+
+It cannot be a sharepoint list. Files not webpages. If the URL ends with .ASPX it will not import into QnA maker.
+
+App Service and Azure Cognitive Search are the Azure Resources created when a new QnA Maker service is created. It does not create the web app bot, you can create that later if you intend to surface it through the web channel.
+
+TSV files for chitchat personality uploads.
 
 ### 6. Identify capabilities of the Bot Framework
 
+The Bot Framework SDK is required to develop bots using code. There are SDKs for C#, JS, TS and Python. The Bot Framework SDK allows developers to send and receive messages with users on the configured channels.
+
+The Azure Bot Framework Emulator is a desktop application that allows developers to test and debug bots on their local computer.
+
+The Bot service framework CLI tools manage bots and related services and are used in the DevOps pipelines when deploying bots in enterprises.
+
+The Bot Framework Composer is a tool to build bots without Code. The Bot Framework Composer uses a visual user interface to create diaslogs and bot logic.

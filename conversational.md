@@ -19,3 +19,5 @@ Identify Azure services for conversational AI
 ## Identify Azure services for conversational AI
 * [5. Identify capabilities of the QnA Maker service](#5-identify-capabilities-of-the-QnA-Maker-service)
 * [6. Identify capabilities of the Bot Framework](#6-identify-capabilities-of-the-Bot-Framework)
+
+### 1. Identify features and uses for webchat bots

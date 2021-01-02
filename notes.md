@@ -166,3 +166,21 @@ Form Recognizer supports automated document processing through:
 
 * A pre-built receipt model that is provided out-of-the-box, and is trained to recognize and extract data from sales receipts.
 * Custom models, which enable you to extract what are known as key/value pairs and table data from forms. Custom models are trained using your own data, which helps to tailor this model to your specific forms. Starting with only five samples of your forms, you can train the custom model. After the first training exercise, you can evaluate the results and consider if you need to add more samples and re-train.
+
+## Text Analytics:
+
+As an example, you might read some text and identify some key phrases that indicate the main talking points of the text. You might also recognize names of people or well-known landmarks such as the Eiffel Tower. Although difficult at times, you might also be able to get a sense for how the person was feeling when they wrote the text, also commonly known as sentiment.
+
+Pre-trained models can:
+
+* Determine the language of a document or text (for example, French or English).
+* Perform sentiment analysis on text to determine a positive or negative sentiment.
+* Extract key phrases from text that might indicate its main talking points.
+* Identify and categorize entities in the text. Entities can be people, places, organizations, or even everyday items such as dates, times, quantities, and so on.
+
+Examples:
+
+* A social media feed analyzer to detect sentiment around a political campaign or a product in market.
+* A document search application that extracts key phrases to help summarize the main subject matter of documents in a catalog.
+* A tool to extract brand information or company names from documents or other text for identification purposes.
+

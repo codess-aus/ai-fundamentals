@@ -140,3 +140,29 @@ Uses of OCR:
 * digitizing forms, such as medical records or historical documents
 * scanning printed or handwritten checks for bank deposits
 
+The OCR API is designed for quick extraction of small amounts of text in images. It operates synchronously to provide immediate results, and can recognize text in numerous languages.
+
+When you use the OCR API to process an image, it returns a hierarchy of information that consists of:
+
+* Regions in the image that contain text
+* Lines of text in each region
+* Words in each line of text
+
+For each of these elements, the OCR API also returns bounding box coordinates that define a rectangle to indicate the location in the image where the region, line, or word appears.
+
+The OCR method can have issues with false positives when the image is considered text-dominate. The Read API uses the latest recognition models and is optimized for images that have a significant amount of text or has considerable visual noise.
+
+The Read API is a better option for scanned documents that have a lot of text. The Read API also has the ability to automatically determine the proper recognition model to use, taking into consideration lines of text and supporting images with printed text as well as recognizing handwriting.
+
+## Analyze invoices and receipts with the Form Recognizer service:
+
+The Form Recognizer in Azure provides intelligent form processing capabilities that you can use to automate the processing of data in documents such as forms, invoices, and receipts. It combines state-of-the-art optical character recognition (OCR) with predictive models that can interpret form data by:
+
+* Matching field names to values.
+* Processing tables of data.
+* Identifying specific types of field, such as dates, telephone numbers, addresses, totals, and others.
+
+Form Recognizer supports automated document processing through:
+
+* A pre-built receipt model that is provided out-of-the-box, and is trained to recognize and extract data from sales receipts.
+* Custom models, which enable you to extract what are known as key/value pairs and table data from forms. Custom models are trained using your own data, which helps to tailor this model to your specific forms. Starting with only five samples of your forms, you can train the custom model. After the first training exercise, you can evaluate the results and consider if you need to add more samples and re-train.

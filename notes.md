@@ -1,5 +1,12 @@
 # More Notes
 
+Whichever type of resource you choose to create, it will provide two pieces of information that you will need to use it:
+
+* A key that is used to authenticate client applications.
+* An endpoint that provides the HTTP address at which your resource can be accessed.
+
+If you create a Cognitive Services resource, client applications use the same key and endpoint regardless of the specific service they are using.
+
 ### Compute:
 
 In Azure Machine Learning studio there are four kinds of compute resource you can create:
@@ -79,4 +86,57 @@ Image classification is a machine learning based form of computer vision in whic
 * Evaluating the safety of a building by looking for fire extinguishers or other emergency equipment.
 * Creating software for self-driving cars or vehicles with lane assist capabilities.
 * Medical imaging such as an MRI or x-rays that can detect known objects for medical diagnosis.
+
+* Precision: What percentage of class predictions did the model correctly identify? For example, if the model predicted that 10 images are oranges, of which eight were actually oranges, then the precision is 0.8 (80%).
+* Recall: What percentage of the class predictions made by the model were correct? For example, if there are 10 images of apples, and the model found 7 of them, then the recall is 0.7 (70%).
+* Mean Average Precision (mAP): An overall metric that takes into account both precision and recall across all classes).
+
+Detecting objects in images has proven a key element in many applications that help improve safety, provide better medical imaging diagnostics, manage stock levels for inventory management, and even help preserve wildlife. The object detection capabilities in the Custom Vision service make is easy to develop models to support these kinds of scenario.
+
+### Uses for face detection, analysis, and recognition:
+
+* Security - facial recognition can be used in building security applications, and increasingly it is used in smart phones operating systems for unlocking devices.
+* Social media - facial recognition can be used to automatically tag known friends in photographs.
+Intelligent monitoring - for example, an automobile might include a system that monitors the driver's face to determine if the driver is looking at the road, looking at a mobile device, or shows signs of tiredness.
+* Advertising - analyzing faces in an image can help direct advertisements to an appropriate demographic audience.
+* Missing persons - using public cameras systems, facial recognition can be used to identify if a missing person is in the image frame.
+* Identity validation - useful at ports of entry kiosks where a person holds a special entry permit.
+
+### Face
+
+Face currently supports the following functionality:
+
+* Face Detection
+* Face Verification
+* Find Similar Faces
+* Group faces based on similarities
+* Identify people
+
+Face can return the rectangle coordinates for any human faces that are found in an image, as well as a series of attributes related to those faces such as:
+
+* the head pose - orientation in a 3D space
+* a guess at an age
+* what emotion is displayed
+* if there is facial hair or the person is wearing glasses
+* whether the face in the image has makeup applied
+* whether the person in the image is smiling
+* blur - how blurred the face is (which can be an indication of how likely the face is to be the main focus of the image)
+* exposure - aspects such as underexposed or over exposed and applies to the face in the image and not the overall image exposure
+* noise - refers to visual noise in the image. If you have taken a photo with a high ISO setting for darker settings, you would notice this noise in the image. The image looks grainy or full of tiny dots that make the image less clear
+* occlusion - determines if there may be objects blocking the face in the image.
+
+Tips for more accurate results
+
+* image format - supported images are JPEG, PNG, GIF, and BMP
+* file size - 4 MB or smaller
+* face size range - from 36 x 36 up to 4096 x 4096. * Smaller or larger faces will not be detected
+* other issues - face detection can be impaired by extreme face angles, occlusion (objects blocking the face such as sunglasses or a hand). Best results are obtained when the faces are full-frontal or as near as possible to full-frontal.
+
+## OCR:
+
+Uses of OCR:
+
+* note taking
+* digitizing forms, such as medical records or historical documents
+* scanning printed or handwritten checks for bank deposits
 

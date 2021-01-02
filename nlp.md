@@ -1,5 +1,4 @@
-# Describe features of Natural Language Processing (NLP) workloads on
-Azure (15-20%)
+# Describe features of Natural Language Processing (NLP) workloads on Azure (15-20%)
 
 ## Identify features of common NLP Workload Scenarios
 * [1. Identify features and uses for key phrase extraction](#1-identify-features-and-uses-for-key-phrase-extraction)

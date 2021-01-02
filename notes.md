@@ -185,3 +185,75 @@ Examples:
 * A tool to extract brand information or company names from documents or other text for identification purposes.
 
 The Text Analytics service provides advanced natural language processing over raw text, and includes four main functions: sentiment analysis, key phrase extraction, language detection, and named entity recognition.
+
+## Speech
+
+The speech-to-text API:
+You can use the speech-to-text API to perform real-time or batch transcription of audio into a text format. The audio source for transcription can be a real-time audio stream from a microphone or an audio file.
+
+The model that is used by the speech-to-text API, is based on the Universal Language Model that was trained by Microsoft. The data for the model is Microsoft-owned and deployed to Microsoft Azure. The model is optimized for two scenarios, conversational and dictation. You can also create and train your own custom models including acoustics, language, and pronunciation if the pre-built models from Microsoft do not provide what you need.
+
+Real-time speech-to-text allows you to transcribe text in audio streams. You can use real-time transcription for presentations, demos, or any other scenario where a person is speaking.
+
+Not all speech-to-text scenarios are real time. You may have audio recordings stored on a file share, a remote server, or even on Azure storage. You can point to audio files with a shared access signature (SAS) URI and asynchronously receive transcription results.
+
+The text-to-speech API:
+The text-to-speech API enables you to convert text input to audible speech, which can either be played directly through a computer speaker or written to an audio file.
+
+Both the speech-to-text and text-to-speech APIs support a variety of languages.
+
+## Translator
+
+The Translator Text service is easy to integrate in your applications, websites, tools, and solutions. The service uses a Neural Machine Translation (NMT) model for translation, which analyzes the semantic context of the text and renders a more accurate and complete translation as a result.
+
+The Text Translator service supports text-to-text translation between more than 60 languages.
+
+When using the Text Translator service, you can specify one from language with multiple to languages, enabling you to simultaneously translate a source document into multiple languages.
+
+The Translator Text API offers some optional configuration to help you fine-tune the results that are returned, including:
+
+Profanity filtering. Without any configuration, the service will translate the input text, without filtering out profanity. Profanity levels are typically culture-specific but you can control profanity translation by either marking the translated text as profane or by omitting it in the results.
+
+Selective translation. You can tag content so that it isn't translated. For example, you may want to tag code, a brand name, or a word/phrase that doesn't make sense when localized.
+
+The Speech service includes the following application programming interfaces (APIs):
+
+* Speech-to-text - used to transcribe speech from an audio source to text format.
+* Text-to-speech - used to generate spoken audio from a text source.
+* Speech Translation - used to translate speech in one language to text or speech in another.
+
+You can use the Speech Translation API to translate spoken audio from a streaming source, such as a microphone or audio file, and return the translation as text or an audio stream. This enables scenarios such as real-time closed captioning for a speech or simultaneous two-way translation of a spoken conversation.
+
+## Language Understanding
+
+Creating a language understanding application with Language Understanding consists of two main tasks. First you must define entities, intents, and utterances with which to train the language model - referred to as authoring the model. Then you must publish the model so that client applications can use it for intent and entity prediction based on user input.
+
+For each of the authoring and prediction tasks, you need a resource in your Azure subscription. You can use the following types of resource:
+
+* Language Understanding: A dedicated resource for Language Understanding, which can be either an authoring or a prediction resource.
+
+* Cognitive Services: A general cognitive services resource that includes Language Understanding along with many other cognitive services. You can only use this type of resource for prediction.
+
+[Tip] Best practice is to use the Language Understanding portal for authoring and to use the SDK for runtime predictions.
+
+There are four types of entities:
+
+* Machine-Learned: Entities that are learned by your model during training from context in the sample utterances you provide.
+* List: Entities that are defined as a hierarchy of lists and sublists. For example, a device list might include sublists for light and fan. For each list entry, you can specify synonyms, such as lamp for light.
+* RegEx: Entities that are defined as a regular expression that describes a pattern - for example, you might define a pattern like [0-9]{3}-[0-9]{3}-[0-9]{4} for telephone numbers of the form 555-123-4567.
+* Pattern.any: Entities that are used with patterns to define complex entities that may be hard to extract from sample utterances.
+
+## Conversational AI
+
+Conversations typically take the form of messages exchanged in turns; and one of the most common kinds of conversational exchange is a question followed by an answer. This pattern forms the basis for many user support bots, and can often be based on existing FAQ documentation. To implement this kind of solution, you need:
+
+* A knowledge base of question and answer pairs - usually with some built-in natural language processing model to enable questions that can be phrased in multiple ways to be understood with the same semantic meaning.
+* A bot service that provides an interface to the knowledge base through one or more channels.
+
+You can easily create a user support bot solution on Microsoft Azure using a combination of two core technologies:
+
+* QnA Maker. This cognitive service enables you to create and publish a knowledge base with built-in natural language processing capabilities.
+* Azure Bot Service. This service provides a framework for developing, publishing, and managing bots on Azure.
+
+<p><img align="center" src="https://github.com/msandfor/ai-fundamentals/blob/main/assets/bot-solution.png" alt="connect channels"></p>
+<p align="center"></p>

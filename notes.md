@@ -183,6 +183,7 @@ Examples:
 * A social media feed analyzer to detect sentiment around a political campaign or a product in market.
 * A document search application that extracts key phrases to help summarize the main subject matter of documents in a catalog.
 * A tool to extract brand information or company names from documents or other text for identification purposes.
+* Mustang - car or horse
 
 The Text Analytics service provides advanced natural language processing over raw text, and includes four main functions: sentiment analysis, key phrase extraction, language detection, and named entity recognition.
 

@@ -24,7 +24,7 @@
 
 
 ### 1. Identify regression machine learning scenarios
-Example: Predicting the online sales volume for the next financial quarter by using historical sales volume data and holiday seasons, pre-orders etc.
+* Example: Predicting the online sales volume for the next financial quarter by using historical sales volume data and holiday seasons, pre-orders etc.
 * Example: predict house prices based on the location, number of rooms etc.
 * Example: predict if a patient needs to be admitted to hospital based on previous health records and recent medical test results.
 * Example: forecasting stock market values based on macro economic changes.
@@ -41,13 +41,13 @@ Supervised Learning - each data point is either labelled or associated with a ca
 Regression does not provide mutually exclusive approve or reject answers.
 
 ### 2. Identify classification machine learning scenarios
-Example: Check whether newly arrived emails contain spam.
-Example: Analyzing X-Ray images to detect whether a person has pneumonia.
-Example: Is the object in the image a hotdog?
-Example Binary: Is it A or B? (Spam or not)
-Example Multiclass: What type of bird is in the picture?
-Example: Processing tweets to categorise them as positive or negative
-Example: Approve or Reject a customer for credit.
+* Example: Check whether newly arrived emails contain spam.
+* Example: Analyzing X-Ray images to detect whether a person has pneumonia.
+* Example: Is the object in the image a hotdog?
+* Example Binary: Is it A or B? (Spam or not)
+* Example Multiclass: What type of bird is in the picture?
+* Example: Processing tweets to categorise them as positive or negative
+* Example: Approve or Reject a customer for credit.
 
 
 Classification is used to make predictions in a non-continuous form. Learning from labeled data to classify new observations.
@@ -61,9 +61,9 @@ Supervised Learning - each data point is either labelled or associated with a ca
 Metrics: Recall(correct results) and Precision (True results over positive)
 
 ### 3. Identify clustering machine learning scenarios
-Example: To learn about purchasing habits of ecommerce clients.
-Example: Grouping together online shoppers with similar traits for targeted marketing.
-Example: Group documents with similar topics or sentiment
+* Example: To learn about purchasing habits of ecommerce clients.
+* Example: Grouping together online shoppers with similar traits for targeted marketing.
+* Example: Group documents with similar topics or sentiment
 
 Clustering analyzes data to find similarities in data points and groups them together using unlabelled data. Explore unexpected correlations.
 
@@ -73,9 +73,9 @@ Unsupervised Learning. The Data is not labelled. An Unsupervised learning algori
 
 
 ### 4. Identify features and labels in a dataset for machine learning
-Example: Sepal length column is a feature column.
-Example: Flower species column is a label column.
-Example: Income column is a label column, Age and Height are Features - where the ML model predicts a persons income based on their height and age.
+* Example: Sepal length column is a feature column.
+* Example: Flower species column is a label column.
+* Example: Income column is a label column, Age and Height are Features - where the ML model predicts a persons income based on their height and age.
 
 A learning model learns the relationships between features and the label. You can use model to predict the label based on it's features.
 
@@ -113,25 +113,25 @@ The Random Seed Setting is an integer value that helps to ensure reproducibility
 
 ### 7. Select and interpret model evaluation metrics for classification and regression
 
-Classification Metrics: AUC value of 0.4 means that the model is performing worse than a random guess. AUC values range between 0 and 1. The higher the value the better the performance of the classification model. A value of 0.5 indicates prediction is close to a random guess.
+Classification Metrics: **AUC value** of 0.4 means that the model is performing worse than a random guess. AUC values range between 0 and 1. The higher the value the better the performance of the classification model. A value of 0.5 indicates prediction is close to a random guess.
 
-Classification Metrics: Precision is the proportion of true results over all positive results.
+Classification Metrics: **Precision** is the proportion of true results over all positive results.
 
-Classification Metrics: Recall is the fraction of all correct results returned by the model
+Classification Metrics: **Recall** is the fraction of all correct results returned by the model
 
-Classification Metrics: F-Score is computed as weighted average of Precision and recall.
+Classification Metrics: **F-Score** is computed as weighted average of Precision and recall.
 
 Metrics used to evaluate regression methods are generally focused on estimating the amount of error, where a small difference between observed and predicted values is an indicator of a better fit model
 
-Regression Metrics: MAE - Mean absolute error. How close prediction is to actual outcome. The lower the score, the better.
+Regression Metrics: **MAE - Mean absolute error**. How close prediction is to actual outcome. The lower the score, the better.
 
-Regression Metrics: R2 - Coefficient of Determination (1 is perfect, 0 is random)
+Regression Metrics: **R2 - Coefficient of Determination** (1 is perfect, 0 is random)
 
-Regression Metrics: RMSE - Root mean squared error
+Regression Metrics: RMSE - **Root mean squared error**
 
-Clustering Metrics: Average distance to cluster center
+Clustering Metrics: **Average distance to cluster center**
 
-Clustering Metrics: Number of Points
+Clustering Metrics: **Number of Points**
 
 ### 8. describe common features of data ingestion and preparation
 
@@ -141,31 +141,31 @@ You can divide a dataset using regular expression. One set will contain rows wit
 
 You can split a dataset for training/testing by rows. It can be done randomly or using some criteria such as regular expressions.
 
-Sampling is a technique used in machine learning to reduce the size of the dataset, but still maintaining the same ratio of values.
+**Sampling** is a technique used in machine learning to reduce the size of the dataset, but still maintaining the same ratio of values.
 
-Splitting is a method that is useful for dividing the dataset into training and testing subsets to feed the model during it's training process and then test it's fit.
+**Splitting** is a method that is useful for dividing the dataset into training and testing subsets to feed the model during it's training process and then test it's fit.
 
-Normalization is a technique used in the data preparation. You transform the values of numeric columns to use a common scale, for example between 0 and 1 without impacting the differences in the value anges or losing information itself.
+**Normalization** is a technique used in the data preparation. You transform the values of numeric columns to use a common scale, for example between 0 and 1 without impacting the differences in the value anges or losing information itself.
 
-Binning is a method used to segment data into groups of the same size. Binning is used when the distribution of values in the data is skewed and transforms continuous numeric features into discrete features (categories).
+**Binning** is a method used to segment data into groups of the same size. Binning is used when the distribution of values in the data is skewed and transforms continuous numeric features into discrete features (categories).
 
-Substitution is a method used for replacing missing values in a dataset.
+**Substitution** is a method used for replacing missing values in a dataset.
 
-Feature Hashing is used to transform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
+**Feature Hashing** is used to transform text data into a set of features represented as integers. Numerical data can be used then to train text analysis models.
 
-Data Ingestion is the process in which unstructured data is extracted from one or multiple sources and then prepared for training ML models. Raw data may come in different formats so extracting and converting it into supported format is a critical prep task in the ML models training process.
+**Data Ingestion** is the process in which unstructured data is extracted from one or multiple sources and then prepared for training ML models. Raw data may come in different formats so extracting and converting it into supported format is a critical prep task in the ML models training process.
 
-Value clipping is the process of removing outliers.
+**Value clipping** is the process of removing outliers.
 
 ### 9. describe common features of feature selection and engineering
 
-Example: House Location and Number of bedrooms are features. Label is price.
+* Example: House Location and Number of bedrooms are features. Label is price.
 
 Classification and Regression both involve using features and labeled data (supervised learning). The data acts as a teacher and trains the model.
 
-Feature selection is the process of selecting a subset of relevant features(variables or predictors) to use in building an ML model.
+**Feature selection** is the process of selecting a subset of relevant features(variables or predictors) to use in building an ML model.
 
-Feature Engineering is used to increase the predictive power of a ML model.
+**Feature Engineering** is used to increase the predictive power of a ML model.
 
 Feature engineering is the process of creating new features from raw data to increase the predictive power of the ML model. Engineered Features capture additional information that is not available in the original feature set. Examples of Feature Engineering are aggregating data, calculating a moving average and calculating the difference over time. Features are selected and created before a model is trained and do not assist in the measurement of a models accuracy.
 

@@ -1,5 +1,4 @@
-# Describe fundamental principles of machine learning on Azure (30-
-35%)
+# Describe fundamental principles of machine learning on Azure (30-35%)
 
 ## Identify common machine learning types
 * [1. Identify regression machine learning scenarios](#1-identify-regression-machine-learning-scenarios)

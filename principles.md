@@ -25,12 +25,12 @@
 
 ### 1. Identify regression machine learning scenarios
 Example: Predicting the online sales volume for the next financial quarter by using historical sales volume data and holiday seasons, pre-orders etc.
-Example: predict house prices based on the location, number of rooms etc.
-Example: predict if a patient needs to be admitted to hospital based on previous health records and recent medical test results.
-Example: forecasting stock market values based on macro economic changes.
-Example: Predict icecream sales based on weather forecast
-Example: How much credit to give a customer.
-Example: predict the number of likes on a social media post.
+* Example: predict house prices based on the location, number of rooms etc.
+* Example: predict if a patient needs to be admitted to hospital based on previous health records and recent medical test results.
+* Example: forecasting stock market values based on macro economic changes.
+* Example: Predict icecream sales based on weather forecast
+* Example: How much credit to give a customer.
+* Example: predict the number of likes on a social media post.
 
 In a regression ML scenario you predict a numeric value, typically in a continuous form. Regression makes predictions in continuous form using historical data to predict or forecast new values.
 

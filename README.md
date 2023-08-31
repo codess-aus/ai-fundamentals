@@ -24,7 +24,7 @@ Also, I'd love it if you've found this Project useful - Could you please click o
 
 > If you have content to add, open an issue and we'll see if it fits
 >
-> https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26
+[Practice exam](https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26)
 > 
 
 

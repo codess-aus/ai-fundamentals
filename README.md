@@ -23,6 +23,9 @@ A Repository created to help people prepare for the Microsoft AI-900 Exam. Detai
 Also, I'd love it if you've found this Project useful - Could you please click on the :star: for this repository.
 
 > If you have content to add, open an issue and we'll see if it fits
+>
+> https://learn.microsoft.com/en-us/certifications/exams/ai-900/practice/assessment?assessment-type=practice&assessmentId=26
+> 
 
 
 ## Table of Contents
